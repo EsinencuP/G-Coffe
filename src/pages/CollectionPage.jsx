@@ -135,7 +135,7 @@ export function CollectionPage({ language }) {
             <div className="catalog-empty" role="status">
               <span>00 / 08</span>
               <h2>{copy.emptyTitle}</h2>
-              <p>{deferredQuery ? `${copy.queryEmpty} “${deferredQuery}”. ${copy.emptyBody}` : copy.emptyBody}</p>
+              <p>{deferredQuery ? `${copy.queryEmpty} «${deferredQuery}». ${copy.emptyBody}` : copy.emptyBody}</p>
               <button className="action action--solid" type="button" onClick={resetFilters}>{copy.resetAll}</button>
             </div>
           )}
@@ -153,3 +153,5 @@ export function CollectionPage({ language }) {
     </div>
   );
 }
+
+

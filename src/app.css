@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600&display=swap');
 @import "tailwindcss";
 
 @theme {
-  --font-sans: "Outfit", "Avenir Next", Arial, sans-serif;
+  --font-sans: "Lato", Arial, Helvetica, sans-serif;
   --color-ink: #241a15;
   --color-roast: #b87548;
   --color-canvas: #f2ede5;
@@ -391,3 +390,5 @@
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
 }
+
+
