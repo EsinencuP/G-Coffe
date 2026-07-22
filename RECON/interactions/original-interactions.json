@@ -1,0 +1,2640 @@
+{
+  "label": "original",
+  "url": "https://coffeeshare.eu/",
+  "capturedAt": "2026-07-21T19:14:27.129Z",
+  "initial": {
+    "url": "https://coffeeshare.eu/",
+    "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+    "activeElement": "body",
+    "scrollY": 0,
+    "bodyTextChars": 2615,
+    "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+    "counts": {
+      "dialogs": 1,
+      "popovers": 0,
+      "canvases": 0,
+      "videos": 0,
+      "buttons": 21,
+      "forms": 1
+    },
+    "htmlHash": "85560654",
+    "htmlLength": 294596
+  },
+  "discovered": {
+    "interactive": [
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3)",
+        "tag": "div",
+        "type": "",
+        "role": "button",
+        "href": "",
+        "text": "",
+        "ariaLabel": "Chiudi la finestra di dialogo",
+        "safeClick": true,
+        "rect": {
+          "x": 1390,
+          "y": 635,
+          "width": 20,
+          "height": 20
+        }
+      },
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Accetta",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 924,
+          "y": 792,
+          "width": 140,
+          "height": 45
+        }
+      },
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > button:nth-of-type(2)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Nega",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1074,
+          "y": 792,
+          "width": 140,
+          "height": 45
+        }
+      },
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > button:nth-of-type(3)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Visualizza le preferenze",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1224,
+          "y": 792,
+          "width": 186,
+          "height": 45
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/cookie-policy-ue/",
+        "text": "Cookie Policy",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1084,
+          "y": 856,
+          "width": 72,
+          "height": 14
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/privacy-policy/",
+        "text": "Privacy Policy",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1166,
+          "y": 856,
+          "width": 74,
+          "height": 14
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://www.facebook.com/coffeeshare.eu",
+        "text": "Facebook",
+        "ariaLabel": "Facebook",
+        "safeClick": false,
+        "rect": {
+          "x": 696,
+          "y": 18,
+          "width": 18,
+          "height": 18
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://www.instagram.com/coffeeshare_torrefazione/",
+        "text": "Instagram",
+        "ariaLabel": "Instagram",
+        "safeClick": false,
+        "rect": {
+          "x": 726,
+          "y": 18,
+          "width": 18,
+          "height": 18
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "button",
+        "href": "https://coffeeshare.eu/programma-fedelta-coffeeshare/",
+        "text": "Programma Fedeltà",
+        "ariaLabel": "Programma Fedeltà",
+        "safeClick": true,
+        "rect": {
+          "x": 1115,
+          "y": 2,
+          "width": 205,
+          "height": 46
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 120,
+          "y": 99,
+          "width": 221,
+          "height": 20
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/",
+        "text": "Home",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 514,
+          "y": 71,
+          "width": 79,
+          "height": 80
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/torrefazione-artigianale-coffeeshare/",
+        "text": "Torrefazione artigianale",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 593,
+          "y": 71,
+          "width": 216,
+          "height": 80
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/business/",
+        "text": "Business",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 810,
+          "y": 71,
+          "width": 106,
+          "height": 80
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/negozio/",
+        "text": "Shop",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 915,
+          "y": 71,
+          "width": 94,
+          "height": 80
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1) > span:nth-of-type(1)",
+        "tag": "span",
+        "type": "",
+        "role": "button",
+        "href": "",
+        "text": "",
+        "ariaLabel": "Attiva/disattiva menu",
+        "safeClick": true,
+        "rect": {
+          "x": 972,
+          "y": 71,
+          "width": 20,
+          "height": 80
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/blog/",
+        "text": "Blog",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1009,
+          "y": 71,
+          "width": 68,
+          "height": 80
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/contatti/",
+        "text": "Contatti",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1077,
+          "y": 71,
+          "width": 98,
+          "height": 80
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/mio-account/",
+        "text": "Il mio account",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1175,
+          "y": 71,
+          "width": 145,
+          "height": 80
+        }
+      },
+      {
+        "selector": "ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://nuovo.coffeeshare.eu/prodotto/caffe-soave-macinato-grani/",
+        "text": "Scopri il gusto",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": -1292,
+          "y": 640,
+          "width": 129,
+          "height": 40
+        }
+      },
+      {
+        "selector": "ul:nth-of-type(1) > li:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://nuovo.coffeeshare.eu/prodotto/caffe-etiopia-macinato-grani/",
+        "text": "Prova subito!",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": -87,
+          "y": 640,
+          "width": 119,
+          "height": 40
+        }
+      },
+      {
+        "selector": "ul:nth-of-type(1) > li:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://nuovo.coffeeshare.eu/prodotto/caffe-soave-macinato-grani/",
+        "text": "Scopri il gusto",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1108,
+          "y": 640,
+          "width": 129,
+          "height": 40
+        }
+      },
+      {
+        "selector": "ul:nth-of-type(1) > li:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://nuovo.coffeeshare.eu/prodotto/caffe-etiopia-macinato-grani/",
+        "text": "Prova subito!",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 2313,
+          "y": 640,
+          "width": 119,
+          "height": 40
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ol:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "tab",
+        "href": "https://coffeeshare.eu/#",
+        "text": "1",
+        "ariaLabel": "Show slide 1 of 2",
+        "safeClick": true,
+        "rect": {
+          "x": 1160,
+          "y": 413,
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ol:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "tab",
+        "href": "https://coffeeshare.eu/#",
+        "text": "2",
+        "ariaLabel": "Show slide 2 of 2",
+        "safeClick": true,
+        "rect": {
+          "x": 1160,
+          "y": 437,
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/#",
+        "text": "Previous",
+        "ariaLabel": "Precedente",
+        "safeClick": true,
+        "rect": {
+          "x": 1148,
+          "y": 481,
+          "width": 41,
+          "height": 32
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/#",
+        "text": "Next",
+        "ariaLabel": "Seguente",
+        "safeClick": true,
+        "rect": {
+          "x": 1148,
+          "y": 516,
+          "width": 41,
+          "height": 32
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/#",
+        "text": "Pausa",
+        "ariaLabel": "Pausa",
+        "safeClick": true,
+        "rect": {
+          "x": 130,
+          "y": 700,
+          "width": 30,
+          "height": 30
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/prodotto/corso-dal-crudo-alla-tazzina/",
+        "text": "Scopri di più",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 171,
+          "y": 1331,
+          "width": 134,
+          "height": 36
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/prodotto/corso-metodi-di-estrazione-caffe/",
+        "text": "Scopri di più",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 732,
+          "y": 1331,
+          "width": 134,
+          "height": 36
+        }
+      },
+      {
+        "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/categoria-prodotto/caffe/grani/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 171,
+          "y": 1682,
+          "width": 179,
+          "height": 229
+        }
+      },
+      {
+        "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > figure:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/categoria-prodotto/capsule-compatibili-nespresso/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 395,
+          "y": 1682,
+          "width": 181,
+          "height": 231
+        }
+      },
+      {
+        "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > figure:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/categoria-prodotto/capsule-compatibili-caffitaly/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 620,
+          "y": 1682,
+          "width": 181,
+          "height": 231
+        }
+      },
+      {
+        "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > figure:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/categoria-prodotto/capsule-compatibili-espresso-point-fap/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 844,
+          "y": 1682,
+          "width": 179,
+          "height": 229
+        }
+      },
+      {
+        "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > figure:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/categoria-prodotto/capsule-compatibili-a-modo-mio/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1069,
+          "y": 1682,
+          "width": 178,
+          "height": 228
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://nuovo.coffeeshare.eu/prodotto/caffe-etiopia-macinato-grani/",
+        "text": "Provalo subito",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 553,
+          "y": 2483,
+          "width": 146,
+          "height": 36
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://nuovo.coffeeshare.eu/torrefazione-artigianale-coffeeshare/",
+        "text": "Leggi la nostra storia",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 553,
+          "y": 2845,
+          "width": 196,
+          "height": 36
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > aside:nth-of-type(1) > section:nth-of-type(2) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://nuovo.coffeeshare.eu/rimborso_reso/",
+        "text": "Condizioni di vendita",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 537,
+          "y": 3425,
+          "width": 165,
+          "height": 20
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > aside:nth-of-type(1) > section:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://nuovo.coffeeshare.eu/note-legali/",
+        "text": "Note legali",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 537,
+          "y": 3483,
+          "width": 82,
+          "height": 20
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > aside:nth-of-type(1) > section:nth-of-type(4) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://nuovo.coffeeshare.eu/privacy-policy/",
+        "text": "Privacy",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 537,
+          "y": 3541,
+          "width": 55,
+          "height": 20
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > aside:nth-of-type(1) > section:nth-of-type(5) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/programma-fedelta-coffeeshare/",
+        "text": "Programma Fedeltà",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 537,
+          "y": 3599,
+          "width": 152,
+          "height": 20
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(3) > aside:nth-of-type(1) > section:nth-of-type(2) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://nuovo.coffeeshare.eu/faq/",
+        "text": "Faq",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1124,
+          "y": 3483,
+          "width": 32,
+          "height": 20
+        }
+      }
+    ],
+    "canvases": []
+  },
+  "actions": [
+    {
+      "type": "scroll",
+      "target": "middle",
+      "ratio": 0.5,
+      "before": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "761783150",
+        "htmlLength": 294601
+      },
+      "after": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 1488,
+        "bodyTextChars": 2630,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "-265347469",
+        "htmlLength": 294602
+      },
+      "changed": true,
+      "screenshot": "screenshots\\01-scroll-middle-b04a45f075.png"
+    },
+    {
+      "type": "scroll",
+      "target": "bottom",
+      "ratio": 1,
+      "before": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "1109495000",
+        "htmlLength": 294599
+      },
+      "after": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 2976,
+        "bodyTextChars": 2630,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "849125369",
+        "htmlLength": 294594
+      },
+      "changed": true,
+      "screenshot": "screenshots\\02-scroll-bottom-7297e0cbea.png"
+    },
+    {
+      "type": "hover",
+      "target": "Chiudi la finestra di dialogo",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3)",
+        "tag": "div",
+        "type": "",
+        "role": "button",
+        "href": "",
+        "text": "",
+        "ariaLabel": "Chiudi la finestra di dialogo",
+        "safeClick": true,
+        "rect": {
+          "x": 1390,
+          "y": 635,
+          "width": 20,
+          "height": 20
+        }
+      },
+      "before": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "-329952605",
+        "htmlLength": 294583
+      },
+      "after": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "-1875881615",
+        "htmlLength": 294577
+      },
+      "changed": true,
+      "screenshot": "screenshots\\03-hover-Chiudi-la-finestra-di-dialogo-340ec30a2a.png"
+    },
+    {
+      "type": "hover",
+      "target": "Accetta",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > button:nth-of-type(1)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Accetta",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 924,
+          "y": 792,
+          "width": 140,
+          "height": 45
+        }
+      },
+      "before": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "-2128252495",
+        "htmlLength": 294586
+      },
+      "after": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "1690468349",
+        "htmlLength": 294601
+      },
+      "changed": true,
+      "screenshot": "screenshots\\04-hover-Accetta-8a664ab060.png"
+    },
+    {
+      "type": "hover",
+      "target": "Nega",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > button:nth-of-type(2)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > button:nth-of-type(2)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Nega",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1074,
+          "y": 792,
+          "width": 140,
+          "height": 45
+        }
+      },
+      "before": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "1964251622",
+        "htmlLength": 294618
+      },
+      "after": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "-1999472268",
+        "htmlLength": 294612
+      },
+      "changed": true,
+      "screenshot": "screenshots\\05-hover-Nega-1aaa080f3b.png"
+    },
+    {
+      "type": "hover",
+      "target": "Visualizza le preferenze",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > button:nth-of-type(3)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > button:nth-of-type(3)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Visualizza le preferenze",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1224,
+          "y": 792,
+          "width": 186,
+          "height": 45
+        }
+      },
+      "before": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "365399424",
+        "htmlLength": 294640
+      },
+      "after": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "-1103142898",
+        "htmlLength": 294634
+      },
+      "changed": true,
+      "screenshot": "screenshots\\06-hover-Visualizza-le-preferenze-94baa16802.png"
+    },
+    {
+      "type": "hover",
+      "target": "Cookie Policy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/cookie-policy-ue/",
+        "text": "Cookie Policy",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1084,
+          "y": 856,
+          "width": 72,
+          "height": 14
+        }
+      },
+      "before": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "377355769",
+        "htmlLength": 294587
+      },
+      "after": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "-1806327351",
+        "htmlLength": 294602
+      },
+      "changed": true,
+      "screenshot": "screenshots\\07-hover-Cookie-Policy-7b41025bdd.png"
+    },
+    {
+      "type": "hover",
+      "target": "Privacy Policy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/privacy-policy/",
+        "text": "Privacy Policy",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1166,
+          "y": 856,
+          "width": 74,
+          "height": 14
+        }
+      },
+      "before": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "892277878",
+        "htmlLength": 294590
+      },
+      "after": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "-2118813052",
+        "htmlLength": 294584
+      },
+      "changed": true,
+      "screenshot": "screenshots\\08-hover-Privacy-Policy-1715ca43d4.png"
+    },
+    {
+      "type": "hover",
+      "target": "Facebook",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://www.facebook.com/coffeeshare.eu",
+        "text": "Facebook",
+        "ariaLabel": "Facebook",
+        "safeClick": false,
+        "rect": {
+          "x": 696,
+          "y": 18,
+          "width": 18,
+          "height": 18
+        }
+      },
+      "before": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "-76999356",
+        "htmlLength": 294601
+      },
+      "after": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "-1250337454",
+        "htmlLength": 294595
+      },
+      "changed": true,
+      "screenshot": "screenshots\\09-hover-Facebook-4bf94fe8a2.png"
+    },
+    {
+      "type": "hover",
+      "target": "Instagram",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://www.instagram.com/coffeeshare_torrefazione/",
+        "text": "Instagram",
+        "ariaLabel": "Instagram",
+        "safeClick": false,
+        "rect": {
+          "x": 726,
+          "y": 18,
+          "width": 18,
+          "height": 18
+        }
+      },
+      "before": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "871586252",
+        "htmlLength": 294616
+      },
+      "after": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "-849120050",
+        "htmlLength": 294631
+      },
+      "changed": true,
+      "screenshot": "screenshots\\10-hover-Instagram-21f1325b00.png"
+    },
+    {
+      "type": "click",
+      "target": "Chiudi la finestra di dialogo",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3)",
+        "tag": "div",
+        "type": "",
+        "role": "button",
+        "href": "",
+        "text": "",
+        "ariaLabel": "Chiudi la finestra di dialogo",
+        "safeClick": true,
+        "rect": {
+          "x": 1390,
+          "y": 635,
+          "width": 20,
+          "height": 20
+        }
+      },
+      "before": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "1874415395",
+        "htmlLength": 294582
+      },
+      "after": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2179,
+        "bodyTextStart": "Vai al contenuto Assistenza: +39 388 7884895 Programma Fedeltà Home Torrefazione artigianale Business Shop Blog Contatti Il mio account Miscela classica Caffè Soave - macinato e in grani Scopri il gusto Specialty Coffee Etiopia - Edizione Limitata Prova subito! Miscela classica Caffè Soave - macinato e in grani Scopri il gusto Specialty Coffee Etiopia - Edizione Limitata Prova subito! 1 2 Previous Next Academy Coffeeshare Inizia il tuo viaggio nel mondo del caffè con CoffeeShare Academy Corsi pr",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "-569270305",
+        "htmlLength": 294576
+      },
+      "changed": true,
+      "screenshot": "screenshots\\11-click-Chiudi-la-finestra-di-dialogo-d96b72f0c5.png"
+    },
+    {
+      "type": "click",
+      "target": "Accetta",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > button:nth-of-type(1)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Accetta",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 924,
+          "y": 792,
+          "width": 140,
+          "height": 45
+        }
+      },
+      "before": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "-1069787460",
+        "htmlLength": 294598
+      },
+      "after": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2179,
+        "bodyTextStart": "Vai al contenuto Assistenza: +39 388 7884895 Programma Fedeltà Home Torrefazione artigianale Business Shop Blog Contatti Il mio account Miscela classica Caffè Soave - macinato e in grani Scopri il gusto Specialty Coffee Etiopia - Edizione Limitata Prova subito! Miscela classica Caffè Soave - macinato e in grani Scopri il gusto Specialty Coffee Etiopia - Edizione Limitata Prova subito! 1 2 Previous Next Academy Coffeeshare Inizia il tuo viaggio nel mondo del caffè con CoffeeShare Academy Corsi pr",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "1441457158",
+        "htmlLength": 294664
+      },
+      "changed": true,
+      "screenshot": "screenshots\\12-click-Accetta-b43cf48fc1.png"
+    },
+    {
+      "type": "click",
+      "target": "Nega",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > button:nth-of-type(2)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > button:nth-of-type(2)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Nega",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1074,
+          "y": 792,
+          "width": 140,
+          "height": 45
+        }
+      },
+      "before": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "1105151458",
+        "htmlLength": 294610
+      },
+      "after": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2179,
+        "bodyTextStart": "Vai al contenuto Assistenza: +39 388 7884895 Programma Fedeltà Home Torrefazione artigianale Business Shop Blog Contatti Il mio account Miscela classica Caffè Soave - macinato e in grani Scopri il gusto Specialty Coffee Etiopia - Edizione Limitata Prova subito! Miscela classica Caffè Soave - macinato e in grani Scopri il gusto Specialty Coffee Etiopia - Edizione Limitata Prova subito! 1 2 Previous Next Academy Coffeeshare Inizia il tuo viaggio nel mondo del caffè con CoffeeShare Academy Corsi pr",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "-1029435186",
+        "htmlLength": 294604
+      },
+      "changed": true,
+      "screenshot": "screenshots\\13-click-Nega-e9d43ff2c8.png"
+    },
+    {
+      "type": "click",
+      "target": "Visualizza le preferenze",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > button:nth-of-type(3)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > button:nth-of-type(3)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Visualizza le preferenze",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1224,
+          "y": 792,
+          "width": 186,
+          "height": 45
+        }
+      },
+      "before": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "-586637190",
+        "htmlLength": 294582
+      },
+      "after": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "button",
+        "scrollY": 0,
+        "bodyTextChars": 2676,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Funzionale Sempre attivo Statistiche Statistiche Marketing Marketing Accetta Nega Salva preferenze Cookie Policy",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "2118910218",
+        "htmlLength": 294662
+      },
+      "changed": true,
+      "screenshot": "screenshots\\14-click-Visualizza-le-preferenze-a7aeedde4e.png"
+    },
+    {
+      "type": "click",
+      "target": "Cookie Policy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/cookie-policy-ue/",
+        "text": "Cookie Policy",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1084,
+          "y": 856,
+          "width": 72,
+          "height": 14
+        }
+      },
+      "before": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "-611437153",
+        "htmlLength": 294625
+      },
+      "after": {
+        "url": "https://coffeeshare.eu/cookie-policy-ue/",
+        "title": "Cookie Policy (UE) -",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 608,
+        "bodyTextStart": "Vai al contenuto Assistenza: +39 388 7884895 Home Torrefazione artigianale Business Shop Blog Contatti Il mio account Cookie Policy (UE) La seguente regione: EU, non è attivata per cookie-statement. Torrefazione artigianale a conduzione familiare in Emilia Romagna. Via Montanara, 580 - 41058 Vignola (MO) - Italy P.IVA 03796880361 E-mail: info@coffeeshare.eu Tel. +39 059.7149529 | Cell. +39 388.7884895 LINKS UTILI Condizioni di vendita Note legali Privacy Faq Hai dei dubbi? Trova le risposte nell",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 9,
+          "forms": 0
+        },
+        "htmlHash": "536779621",
+        "htmlLength": 216875
+      },
+      "changed": true,
+      "screenshot": "screenshots\\15-click-Cookie-Policy-61846374f4.png"
+    },
+    {
+      "type": "click",
+      "target": "Privacy Policy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/privacy-policy/",
+        "text": "Privacy Policy",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1166,
+          "y": 856,
+          "width": 74,
+          "height": 14
+        }
+      },
+      "before": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "1966449353",
+        "htmlLength": 294605
+      },
+      "after": {
+        "url": "https://coffeeshare.eu/privacy-policy/",
+        "title": "Privacy Policy -",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 32077,
+        "bodyTextStart": "Vai al contenuto Assistenza: +39 388 7884895 Home Torrefazione artigianale Business Shop Blog Contatti Il mio account Privacy Policy La presente privacy policy https://www.coffeeshare.eu/new/privacy si applica al sito web https://www.coffeeshare.eu/new/ e disciplina il trattamento dei dati personali effettuato da Coffeeshare Via Montanara, 580 Vignola (MO) Cap 41058, Partita IVA:03796880361, di seguito indicata come “Fornitore”, indirizzo di posta elettronica: info@coffeeshare.eu ai fini dello s",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 9,
+          "forms": 0
+        },
+        "htmlHash": "1628932214",
+        "htmlLength": 255691
+      },
+      "changed": true,
+      "screenshot": "screenshots\\16-click-Privacy-Policy-13a4b34896.png"
+    },
+    {
+      "type": "click",
+      "target": "Programma Fedeltà",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "button",
+        "href": "https://coffeeshare.eu/programma-fedelta-coffeeshare/",
+        "text": "Programma Fedeltà",
+        "ariaLabel": "Programma Fedeltà",
+        "safeClick": true,
+        "rect": {
+          "x": 1115,
+          "y": 2,
+          "width": 205,
+          "height": 46
+        }
+      },
+      "before": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "223297019",
+        "htmlLength": 294618
+      },
+      "after": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "a",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "223297019",
+        "htmlLength": 294618
+      },
+      "changed": false,
+      "screenshot": "screenshots\\17-click-Programma-Fedelt-538909cf6c.png"
+    },
+    {
+      "type": "click",
+      "target": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(1)",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 120,
+          "y": 99,
+          "width": 221,
+          "height": 20
+        }
+      },
+      "before": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "289783811",
+        "htmlLength": 294592
+      },
+      "after": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "1826886018",
+        "htmlLength": 292233
+      },
+      "changed": true,
+      "screenshot": "screenshots\\18-click-div-nth-of-type-1-div-nth-of-type-1-div-nth-of-type-1-div-nth-of-type-1-span-nth-of--0b0331c0c3.png"
+    },
+    {
+      "type": "click",
+      "target": "Home",
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/",
+        "text": "Home",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 514,
+          "y": 71,
+          "width": 79,
+          "height": 80
+        }
+      },
+      "before": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "428357640",
+        "htmlLength": 294612
+      },
+      "after": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "-1974451992",
+        "htmlLength": 292223
+      },
+      "changed": true,
+      "screenshot": "screenshots\\19-click-Home-be58b078fa.png"
+    },
+    {
+      "type": "click",
+      "target": "Torrefazione artigianale",
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/torrefazione-artigianale-coffeeshare/",
+        "text": "Torrefazione artigianale",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 593,
+          "y": 71,
+          "width": 216,
+          "height": 80
+        }
+      },
+      "before": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "1054121650",
+        "htmlLength": 294582
+      },
+      "after": {
+        "url": "https://coffeeshare.eu/torrefazione-artigianale-coffeeshare/",
+        "title": "Torrefazione artigianale a Vignola",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4854,
+        "bodyTextStart": "Vai al contenuto Assistenza: +39 388 7884895 Home Torrefazione artigianale Business Shop Blog Contatti Il mio account Hanno parlato di noi.. Torrefazione Artigianale a Vignola (Modena) – Coffeeshare Coffeeshare è una torrefazione artigianale a conduzione familiare a Vignola, in provincia di Modena, specializzata nella selezione, tostatura e vendita di caffè di alta qualità. La nostra missione è offrire caffè artigianale italiano, ottenuto da una selezione accurata di chicchi di caffè pregiati, t",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 9,
+          "forms": 0
+        },
+        "htmlHash": "91777974",
+        "htmlLength": 253023
+      },
+      "changed": true,
+      "screenshot": "screenshots\\20-click-Torrefazione-artigianale-6814249e0b.png"
+    },
+    {
+      "type": "click",
+      "target": "Business",
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/business/",
+        "text": "Business",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 810,
+          "y": 71,
+          "width": 106,
+          "height": 80
+        }
+      },
+      "before": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "-694990695",
+        "htmlLength": 294592
+      },
+      "after": {
+        "url": "https://coffeeshare.eu/business/",
+        "title": "Torrefazione Coffeeshare | Caffè per aziende",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 3173,
+        "bodyTextStart": "Vai al contenuto Assistenza: +39 388 7884895 Home Torrefazione artigianale Business Shop Blog Contatti Il mio account Linea Professionale Troviamo la soluzione ottimale per offrire la migliore degustazione del caffè anche al lavoro Caffè di qualità per aziende che vogliono fare la differenza Offriamo soluzioni professionali di caffè per aziende, con miscele di alta qualità selezionate e tostate artigianalmente per garantire un gusto eccellente e costante nel tempo. Sappiamo che una semplice paus",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 10,
+          "forms": 1
+        },
+        "htmlHash": "91240074",
+        "htmlLength": 248464
+      },
+      "changed": true,
+      "screenshot": "screenshots\\21-click-Business-42ac2bb230.png"
+    },
+    {
+      "type": "click",
+      "target": "Shop",
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://coffeeshare.eu/negozio/",
+        "text": "Shop",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 915,
+          "y": 71,
+          "width": 94,
+          "height": 80
+        }
+      },
+      "before": {
+        "url": "https://coffeeshare.eu/",
+        "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2615,
+        "bodyTextStart": "Gestisci Consenso Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. Accetta Nega Visualizza le preferenze Cookie Policy Privacy Policy Vai al contenuto Assistenza: +39 388 7884895 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 21,
+          "forms": 1
+        },
+        "htmlHash": "1523347243",
+        "htmlLength": 294602
+      },
+      "after": {
+        "url": "https://coffeeshare.eu/negozio/",
+        "title": "Shop -",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 3514,
+        "bodyTextStart": "Vai al contenuto Assistenza: +39 388 7884895 Programma Fedeltà Home Torrefazione artigianale Business Shop Caffè Capsule compatibili Nespresso Capsule compatibili Caffitaly Capsule compatibili Espresso Point/Fap Capsule compatibili A Modo Mio Blog Contatti Il mio account Home / Shop Shop Visualizzazione di 1-12 di 43 risultati Ordinamento predefinito Popolarità Ordina in base al più recente Prezzo: dal più economico Prezzo: dal più caro Capsule compatibili Caffitaly Caffè Amabile 3,60 € - 72,00 ",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 25,
+          "forms": 2
+        },
+        "htmlHash": "-1561337012",
+        "htmlLength": 378869
+      },
+      "changed": true,
+      "screenshot": "screenshots\\22-click-Shop-d0c2860844.png"
+    }
+  ],
+  "network": [
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=16&frm=0&auid=711459852.1784661109&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=398921561.1784661109&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~118012007~118395334~118897920~118897930~119896802&apve=1&apvf=f&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661108844&tfd=2061&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=16&frm=0&auid=711459852.1784661109&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=398921561.1784661109&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~118012007~118395334~118897920~118897930~119896802&apve=1&apvf=f&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661108854&tfd=2071&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661108846&cv=11&fst=1784661108846&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~118012007~118395334~118897920~118897930~119896802&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=16&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=711459852.1784661109&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=711459852.1784661109&gtm=45be67k0za200xec",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=0&frm=0&auid=1218357649.1784661117&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=137807271.1784661117&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~119527019~119793973&apve=1&apvf=f&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661117434&tfd=4525&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=0&frm=0&auid=1218357649.1784661117&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=137807271.1784661117&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~119527019~119793973&apve=1&apvf=f&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661117445&tfd=4536&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661117435&cv=11&fst=1784661117435&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~119527019~119793973&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=0&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1218357649.1784661117&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1218357649.1784661117&gtm=45be67k0za200xec",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&auid=206267057.1784661126&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=1064721257.1784661126&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616986~115938466~115938469~118131808~118897920~118897930~119773332&apve=1&apvf=f&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661125914&tfd=2270&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&auid=206267057.1784661126&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=1064721257.1784661126&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616986~115938466~115938469~118131808~118897920~118897930~119773332&apve=1&apvf=f&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661125927&tfd=2283&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661125916&cv=11&fst=1784661125916&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616986~115938466~115938469~118131808~118897920~118897930~119773332&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=8&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=206267057.1784661126&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=206267057.1784661126&gtm=45be67k0za200xec",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=0&frm=0&auid=881770994.1784661132&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=1420398902.1784661132&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k1h2za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938468~118395335~118897920~118897930&apve=1&apvf=f&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661132153&tfd=1874&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=0&frm=0&auid=881770994.1784661132&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=1420398902.1784661132&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k1h2za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938468~118395335~118897920~118897930&apve=1&apvf=f&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661132165&tfd=1886&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661132155&cv=11&fst=1784661132155&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k1h2za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938468~118395335~118897920~118897930&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=0&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=881770994.1784661132&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=881770994.1784661132&gtm=45be67k1h2za200xec",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=1&frm=0&auid=1419038946.1784661138&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=247729185.1784661138&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~119724321~119996999&apve=1&apvf=f&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661138289&tfd=1880&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=1&frm=0&auid=1419038946.1784661138&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=247729185.1784661138&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~119724321~119996999&apve=1&apvf=f&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661138298&tfd=1889&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661138290&cv=11&fst=1784661138290&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~119724321~119996999&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=1&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1419038946.1784661138&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1419038946.1784661138&gtm=45be67k0za200xec",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=9&frm=0&auid=15920504.1784661146&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=1094906904.1784661146&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616985~115938466~115938468~118897920~118897930~118981135~119724320&apve=1&apvf=f&gap.plf=4.5.3&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661145525&tfd=2590&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=9&frm=0&auid=15920504.1784661146&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=1094906904.1784661146&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616985~115938466~115938468~118897920~118897930~118981135~119724320&apve=1&apvf=f&gap.plf=4.5.3&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661145538&tfd=2603&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661145528&cv=11&fst=1784661145528&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616985~115938466~115938468~118897920~118897930~118981135~119724320&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=9&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=15920504.1784661146&data=event%3Dpage_view&gap.plf=4.5.3&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=15920504.1784661146&gtm=45be67k0za200xec",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&auid=1401619834.1784661152&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=339618385.1784661152&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616985~115938466~115938468~118395335~118897920~118897930~119381664~119527020~119773331&apve=1&apvf=f&gap.plf=4.5.3&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661151594&tfd=1829&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&auid=1401619834.1784661152&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=339618385.1784661152&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616985~115938466~115938468~118395335~118897920~118897930~119381664~119527020~119773331&apve=1&apvf=f&gap.plf=4.5.3&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661151604&tfd=1840&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661151596&cv=11&fst=1784661151596&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616985~115938466~115938468~118395335~118897920~118897930~119381664~119527020~119773331&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=8&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1401619834.1784661152&data=event%3Dpage_view&gap.plf=4.5.3&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1401619834.1784661152&gtm=45be67k0za200xec",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=18&frm=0&auid=1779841918.1784661158&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=896569219.1784661158&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~118131810~118395334~118897920~118897930&apve=1&apvf=f&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661158203&tfd=2392&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=18&frm=0&auid=1779841918.1784661158&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=896569219.1784661158&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~118131810~118395334~118897920~118897930&apve=1&apvf=f&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661158214&tfd=2403&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661158206&cv=11&fst=1784661158206&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~118131810~118395334~118897920~118897930&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=18&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1779841918.1784661158&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1779841918.1784661158&gtm=45be67k0za200xec",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=1&frm=0&auid=1724445746.1784661165&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=1592226218.1784661165&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~118981135~119896802&apve=1&apvf=f&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661164791&tfd=2030&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661164792&cv=11&fst=1784661164792&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~118981135~119896802&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=1&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1724445746.1784661165&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=1&frm=0&auid=1724445746.1784661165&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=1592226218.1784661165&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~118981135~119896802&apve=1&apvf=f&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661164801&tfd=2040&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1724445746.1784661165&gtm=45be67k0za200xec",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=4&frm=0&apvc=1&auid=230115504.1784661171&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&tid=AW-881601243&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=831282084.1784661171&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gcs=G1--&gcd=13l3l3l3l5l1&tids=AW-881601243&tft=1784661171436&tfd=2468&gtm=45be67k0za200xec&dma=0&tag_exp=115616986~115938465~115938468~118897920~118897930~119527019~119724322&apve=1&apvf=f&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=4&frm=0&apvc=0&auid=230115504.1784661171&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&tid=AW-881601243&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=831282084.1784661171&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gcs=G1--&gcd=13l3l3l3l5l1&tids=AW-881601243&tft=1784661171452&tfd=2484&gtm=45be67k0za200xec&dma=0&tag_exp=115616986~115938465~115938468~118897920~118897930~119527019~119724322&apve=1&apvf=f&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661171442&cv=11&fst=1784661171442&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616986~115938465~115938468~118897920~118897930~119527019~119724322&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=4&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=230115504.1784661171&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=230115504.1784661171&gtm=45be67k0za200xec&fmt=8",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=9&frm=0&apvc=1&auid=2080176215.1784661178&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&tid=AW-881601243&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=103211247.1784661178&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gcs=G1--&gcd=13l3l3l3l5l1&tids=AW-881601243&tft=1784661177686&tfd=2028&gtm=45be67k0h1za200xec&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~118981136~119724322&apve=1&apvf=f&gap.plf=4.5.3&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=9&frm=0&apvc=0&auid=2080176215.1784661178&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&tid=AW-881601243&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=103211247.1784661178&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gcs=G1--&gcd=13l3l3l3l5l1&tids=AW-881601243&tft=1784661177698&tfd=2039&gtm=45be67k0h1za200xec&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~118981136~119724322&apve=1&apvf=f&gap.plf=4.5.3&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661177690&cv=11&fst=1784661177690&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0h1za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~118981136~119724322&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=9&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2080176215.1784661178&data=event%3Dpage_view&gap.plf=4.5.3&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=2080176215.1784661178&gtm=45be67k0h1za200xec&fmt=8",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=16&frm=0&auid=971937260.1784661184&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=939789579.1784661184&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119896803&apve=1&apvf=f&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661184471&tfd=2145&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=16&frm=0&auid=971937260.1784661184&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=939789579.1784661184&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119896803&apve=1&apvf=f&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661184481&tfd=2155&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661184473&cv=11&fst=1784661184473&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119896803&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=16&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=971937260.1784661184&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=971937260.1784661184&gtm=45be67k0za200xec",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=3&frm=0&auid=1853654539.1784661193&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=747441321.1784661193&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k1h2za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~119527019~119773331&apve=1&apvf=f&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661193444&tfd=4802&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=3&frm=0&auid=1853654539.1784661193&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=747441321.1784661193&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k1h2za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~119527019~119773331&apve=1&apvf=f&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661193456&tfd=4814&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661193446&cv=11&fst=1784661193446&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k1h2za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~119527019~119773331&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=3&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1853654539.1784661193&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1853654539.1784661193&gtm=45be67k1h2za200xec",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=9&frm=0&auid=634576704.1784661201&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=569690478.1784661201&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0h1za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~119996999&apve=1&apvf=f&gap.plf=4.5.3&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661200563&tfd=2490&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661200556&cv=11&fst=1784661200556&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0h1za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~119996999&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=9&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=634576704.1784661201&data=event%3Dpage_view&gap.plf=4.5.3&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=9&frm=0&auid=634576704.1784661201&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=569690478.1784661201&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0h1za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~119996999&apve=1&apvf=f&gap.plf=4.5.3&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661200553&tfd=2480&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=634576704.1784661201&gtm=45be67k0h1za200xec",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=9&frm=0&auid=1210400256.1784661207&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=390484928.1784661207&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~119773331&apve=1&apvf=f&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661206734&tfd=1964&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=9&frm=0&auid=1210400256.1784661207&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=390484928.1784661207&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~119773331&apve=1&apvf=f&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661206745&tfd=1975&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661206735&cv=11&fst=1784661206735&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~119773331&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=9&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1210400256.1784661207&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1210400256.1784661207&gtm=45be67k0za200xec",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=13&frm=0&apvc=1&auid=1959317814.1784661213&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&tid=AW-881601243&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=1007099904.1784661213&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gcs=G1--&gcd=13l3l3l3l5l1&tids=AW-881601243&tft=1784661212881&tfd=1923&gtm=45be67k0za200xec&dma=0&tag_exp=115616985~115938465~115938469~118395335~118897920~118897930~119527020~119724322&apve=1&apvf=f&gap.plf=4.5.3&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=13&frm=0&apvc=0&auid=1959317814.1784661213&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&tid=AW-881601243&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=1007099904.1784661213&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gcs=G1--&gcd=13l3l3l3l5l1&tids=AW-881601243&tft=1784661212894&tfd=1936&gtm=45be67k0za200xec&dma=0&tag_exp=115616985~115938465~115938469~118395335~118897920~118897930~119527020~119724322&apve=1&apvf=f&gap.plf=4.5.3&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661212884&cv=11&fst=1784661212884&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616985~115938465~115938469~118395335~118897920~118897930~119527020~119724322&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=13&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1959317814.1784661213&data=event%3Dpage_view&gap.plf=4.5.3&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1959317814.1784661213&gtm=45be67k0za200xec&fmt=8",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=12&frm=0&auid=1959317814.1784661213&dt=Cookie%20Policy%20(UE)%20-&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2Fcookie-policy-ue%2F&dr=coffeeshare.eu&scrsrc=www.googletagmanager.com&rnd=1802063173.1784661217&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938466~115938469~118012007~118395334~118897920~118897930~119724320&apve=1&apvf=f&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661217496&tfd=1228&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=12&frm=0&auid=1959317814.1784661213&dt=Cookie%20Policy%20(UE)%20-&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2Fcookie-policy-ue%2F&dr=coffeeshare.eu&scrsrc=www.googletagmanager.com&rnd=1802063173.1784661217&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938466~115938469~118012007~118395334~118897920~118897930~119724320&apve=1&apvf=f&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661217502&tfd=1235&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661217497&cv=11&fst=1784661217497&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938466~115938469~118012007~118395334~118897920~118897930~119724320&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2Fcookie-policy-ue%2F&ref=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=12&frm=0&tiba=Cookie%20Policy%20(UE)%20-&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1959317814.1784661213&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=10&frm=0&auid=1921847234.1784661220&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=423145056.1784661220&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616985~115938466~115938469~118897920~118897930~119773332&apve=1&apvf=f&gap.plf=4.5.3&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661219727&tfd=1666&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=10&frm=0&auid=1921847234.1784661220&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=423145056.1784661220&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616985~115938466~115938469~118897920~118897930~119773332&apve=1&apvf=f&gap.plf=4.5.3&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661219735&tfd=1674&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661219728&cv=11&fst=1784661219728&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616985~115938466~115938469~118897920~118897930~119773332&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=10&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1921847234.1784661220&data=event%3Dpage_view&gap.plf=4.5.3&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1921847234.1784661220&gtm=45be67k0za200xec",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=15&frm=0&auid=1921847234.1784661220&dt=Privacy%20Policy%20-&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2Fprivacy-policy%2F&dr=coffeeshare.eu&scrsrc=www.googletagmanager.com&rnd=547854606.1784661224&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~117776795~118897920~118897930~118981136~119527019~119896803&apve=1&apvf=f&_gsid=afiZaBvzv-wQx9dQ7M4LHQn9O1JYtgk2cw&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661224083&tfd=1051&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=15&frm=0&auid=1921847234.1784661220&dt=Privacy%20Policy%20-&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2Fprivacy-policy%2F&dr=coffeeshare.eu&scrsrc=www.googletagmanager.com&rnd=547854606.1784661224&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~117776795~118897920~118897930~118981136~119527019~119896803&apve=1&apvf=f&_gsid=afiZaBvzv-wQx9dQ7M4LHQn9O1JYtgk2cw&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661224092&tfd=1059&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661224084&cv=11&fst=1784661224084&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~117776795~118897920~118897930~118981136~119527019~119896803&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2Fprivacy-policy%2F&ref=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=15&frm=0&tiba=Privacy%20Policy%20-&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1921847234.1784661220&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=5&frm=0&auid=740084883.1784661227&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=291111296.1784661227&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~119317810&apve=1&apvf=f&gap.plf=4.5.3&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661227282&tfd=1992&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=5&frm=0&auid=740084883.1784661227&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=291111296.1784661227&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~119317810&apve=1&apvf=f&gap.plf=4.5.3&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661227295&tfd=2004&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661227286&cv=11&fst=1784661227286&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~119317810&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=5&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=740084883.1784661227&data=event%3Dpage_view&gap.plf=4.5.3&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=740084883.1784661227&gtm=45be67k0za200xec",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=1&frm=0&auid=1474936882.1784661236&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=71682248.1784661236&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~117227715~118897920~118897930~118981135&apve=1&apvf=f&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661236278&tfd=1900&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=1&frm=0&auid=1474936882.1784661236&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=71682248.1784661236&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~117227715~118897920~118897930~118981135&apve=1&apvf=f&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661236290&tfd=1912&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661236280&cv=11&fst=1784661236280&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~117227715~118897920~118897930~118981135&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=1&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1474936882.1784661236&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1474936882.1784661236&gtm=45be67k0za200xec",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=1&frm=0&auid=1474936882.1784661236&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&dr=coffeeshare.eu&scrsrc=www.googletagmanager.com&rnd=732503471.1784661239&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616986~115938465~115938469~117227715~118897920~118897930~119724321&apve=1&apvf=f&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661239376&tfd=107&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=1&frm=0&auid=1474936882.1784661236&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&dr=coffeeshare.eu&scrsrc=www.googletagmanager.com&rnd=732503471.1784661239&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616986~115938465~115938469~117227715~118897920~118897930~119724321&apve=1&apvf=f&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661239383&tfd=114&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661239377&cv=11&fst=1784661239377&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616986~115938465~115938469~117227715~118897920~118897930~119724321&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&ref=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=1&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1474936882.1784661236&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&auid=1550359946.1784661243&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=1421909008.1784661243&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616986~115938465~115938468~118131808~118395333~118897920~118897930~119896802&apve=1&apvf=f&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661242661&tfd=2136&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&auid=1550359946.1784661243&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=1421909008.1784661243&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616986~115938465~115938468~118131808~118395333~118897920~118897930~119896802&apve=1&apvf=f&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661242673&tfd=2148&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661242663&cv=11&fst=1784661242663&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616986~115938465~115938468~118131808~118395333~118897920~118897930~119896802&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=8&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1550359946.1784661243&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1550359946.1784661243&gtm=45be67k0za200xec",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=4&frm=0&auid=1550359946.1784661243&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&dr=coffeeshare.eu&scrsrc=www.googletagmanager.com&rnd=1147974716.1784661246&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938466~115938468~118131808~118897920~118897930~119527019&apve=1&apvf=f&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661245701&tfd=96&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=4&frm=0&auid=1550359946.1784661243&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&dr=coffeeshare.eu&scrsrc=www.googletagmanager.com&rnd=1147974716.1784661246&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938466~115938468~118131808~118897920~118897930~119527019&apve=1&apvf=f&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661245709&tfd=104&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661245701&cv=11&fst=1784661245701&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938466~115938468~118131808~118897920~118897930~119527019&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&ref=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=4&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1550359946.1784661243&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=14&frm=0&auid=418875947.1784661249&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=330830990.1784661249&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938466~115938468~118395333~118897920~118897930&apve=1&apvf=f&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661248809&tfd=1883&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=14&frm=0&auid=418875947.1784661249&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=330830990.1784661249&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938466~115938468~118395333~118897920~118897930&apve=1&apvf=f&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661248818&tfd=1892&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661248811&cv=11&fst=1784661248811&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938466~115938468~118395333~118897920~118897930&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=14&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=418875947.1784661249&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=418875947.1784661249&gtm=45be67k0za200xec",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=15&frm=0&auid=418875947.1784661249&dt=Torrefazione%20artigianale%20a%20Vignola&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2Ftorrefazione-artigianale-coffeeshare%2F&dr=coffeeshare.eu&scrsrc=www.googletagmanager.com&rnd=195634337.1784661253&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~118981135~119773331~119896802&apve=1&apvf=f&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661252823&tfd=1072&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=15&frm=0&auid=418875947.1784661249&dt=Torrefazione%20artigianale%20a%20Vignola&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2Ftorrefazione-artigianale-coffeeshare%2F&dr=coffeeshare.eu&scrsrc=www.googletagmanager.com&rnd=195634337.1784661253&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~118981135~119773331~119896802&apve=1&apvf=f&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661252829&tfd=1078&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661252825&cv=11&fst=1784661252825&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~118981135~119773331~119896802&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2Ftorrefazione-artigianale-coffeeshare%2F&ref=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=15&frm=0&tiba=Torrefazione%20artigianale%20a%20Vignola&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=418875947.1784661249&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=7&frm=0&auid=1195898989.1784661256&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=95337601.1784661256&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~119527019~119896803&apve=1&apvf=f&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661255599&tfd=1965&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=7&frm=0&auid=1195898989.1784661256&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=95337601.1784661256&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~119527019~119896803&apve=1&apvf=f&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661255611&tfd=1977&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661255600&cv=11&fst=1784661255600&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~119527019~119896803&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=7&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1195898989.1784661256&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1195898989.1784661256&gtm=45be67k0za200xec",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=12&frm=0&auid=1195898989.1784661256&dt=Torrefazione%20Coffeeshare%20%7C%20Caff%C3%A8%20per%20aziende&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2Fbusiness%2F&dr=coffeeshare.eu&scrsrc=www.googletagmanager.com&rnd=65782515.1784661260&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119773331&apve=1&apvf=f&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661259778&tfd=1174&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=12&frm=0&auid=1195898989.1784661256&dt=Torrefazione%20Coffeeshare%20%7C%20Caff%C3%A8%20per%20aziende&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2Fbusiness%2F&dr=coffeeshare.eu&scrsrc=www.googletagmanager.com&rnd=65782515.1784661260&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119773331&apve=1&apvf=f&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661259787&tfd=1183&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661259780&cv=11&fst=1784661259780&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119773331&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2Fbusiness%2F&ref=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=12&frm=0&tiba=Torrefazione%20Coffeeshare%20%7C%20Caff%C3%A8%20per%20aziende&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1195898989.1784661256&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=19&frm=0&auid=1790601533.1784661262&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=2131113522.1784661262&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~118981136~119724321~119996999&apve=1&apvf=f&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661262281&tfd=1732&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=19&frm=0&auid=1790601533.1784661262&dt=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2F&scrsrc=www.googletagmanager.com&rnd=2131113522.1784661262&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~118981136~119724321~119996999&apve=1&apvf=f&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661262291&tfd=1742&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661262282&cv=11&fst=1784661262282&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~118981136~119724321~119996999&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=19&frm=0&tiba=Torrefazione%20Artigianale%20a%20Vignola%20%7C%20Qualit%C3%A0%20e%20Freschezza&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1790601533.1784661262&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1790601533.1784661262&gtm=45be67k0za200xec",
+      "status": 204,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=17&frm=0&auid=1790601533.1784661262&dt=Shop%20-&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2Fnegozio%2F&dr=coffeeshare.eu&scrsrc=www.googletagmanager.com&rnd=1745736371.1784661266&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938466~115938468~118395333~118897920~118897930~119527019&apve=1&apvf=f&apvc=1&tids=AW-881601243&tid=AW-881601243&tft=1784661266452&tfd=1232&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=17&frm=0&auid=1790601533.1784661262&dt=Shop%20-&en=page_view&dl=https%3A%2F%2Fcoffeeshare.eu%2Fnegozio%2F&dr=coffeeshare.eu&scrsrc=www.googletagmanager.com&rnd=1745736371.1784661266&navt=n&npa=0&did=dOGY3NW&gdid=dOGY3NW&gtm=45be67k0za200xec&gcs=G1--&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938466~115938468~118395333~118897920~118897930~119527019&apve=1&apvf=f&apvc=0&tids=AW-881601243&tid=AW-881601243&tft=1784661266457&tfd=1238&fmt=8",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/881601243/?random=1784661266453&cv=11&fst=1784661266453&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be67k0za200xec&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938466~115938468~118395333~118897920~118897930~119527019&u_w=1440&u_h=900&url=https%3A%2F%2Fcoffeeshare.eu%2Fnegozio%2F&ref=https%3A%2F%2Fcoffeeshare.eu%2F&rcb=17&frm=0&tiba=Shop%20-&did=dOGY3NW&gdid=dOGY3NW&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1790601533.1784661262&data=event%3Dpage_view&ept=68&gcp=5",
+      "status": 200,
+      "method": "POST",
+      "resourceType": "fetch"
+    }
+  ],
+  "consoleErrors": [
+    "Framing 'https://www.google.com/' violates the following report-only Content Security Policy directive: \"frame-ancestors 'self'\". The violation has been logged, but no further action has been taken.\n"
+  ],
+  "findings": [
+    "41 visible interactive candidates discovered",
+    "0 visible canvas targets discovered",
+    "21/22 actions changed DOM, URL, scroll, or visible overlay counts"
+  ]
+}

@@ -1,0 +1,1965 @@
+{
+  "label": "clone",
+  "url": "http://127.0.0.1:4173/",
+  "capturedAt": "2026-07-21T19:25:20.925Z",
+  "console": {
+    "errors": [],
+    "warnings": [],
+    "pageErrors": []
+  },
+  "captures": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "screenshot": "screenshots\\clone-1440.png",
+      "signals": {
+        "href": "http://127.0.0.1:4173/",
+        "title": "G-Coffee Luxury Showroom | Chișinău",
+        "lang": "ro",
+        "bodyTextChars": 3455,
+        "scrollHeight": 5628,
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "h1": [
+          "Cafeaua devine un obiect de colecție."
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Cafeaua devine un obiect de colecție."
+          },
+          {
+            "tag": "h2",
+            "text": "Gustul potrivit nu se ghicește. Se descoperă."
+          },
+          {
+            "tag": "h2",
+            "text": "Un showroom pentru cei care aleg cafeaua cu aceeași grijă ca designul."
+          },
+          {
+            "tag": "h2",
+            "text": "Colecția de început"
+          },
+          {
+            "tag": "h3",
+            "text": "Aurora 01 · Ethiopia Guji"
+          },
+          {
+            "tag": "h3",
+            "text": "Nocturne 02 · Serra Negra"
+          },
+          {
+            "tag": "h3",
+            "text": "Atelier Home Espresso"
+          },
+          {
+            "tag": "h2",
+            "text": "45 de minute. Trei cești. O alegere sigură."
+          },
+          {
+            "tag": "h2",
+            "text": "Mai puțin jargon. Mai mult gust."
+          },
+          {
+            "tag": "h3",
+            "text": "Cum alegi espressorul potrivit fără să plătești pentru funcții inutile"
+          },
+          {
+            "tag": "h3",
+            "text": "Aciditate, dulceață, corp: cele trei repere care contează"
+          },
+          {
+            "tag": "h3",
+            "text": "Rețeta G-Coffee pentru un espresso echilibrat acasă"
+          },
+          {
+            "tag": "h3",
+            "text": "De ce cafeaua sezonieră are un gust mai viu"
+          },
+          {
+            "tag": "h2",
+            "text": "Showroom privat în Chișinău"
+          },
+          {
+            "tag": "h2",
+            "text": "Cafea memorabilă pentru spații care contează."
+          },
+          {
+            "tag": "h3",
+            "text": "Explorează"
+          },
+          {
+            "tag": "h3",
+            "text": "Contact"
+          },
+          {
+            "tag": "h3",
+            "text": "O vizită, pe îndelete."
+          },
+          {
+            "tag": "h2",
+            "text": "Ce experiență pregătim pentru tine?"
+          }
+        ],
+        "metaDescription": "G-Coffee Luxury Showroom — cafea de specialitate, echipamente premium și degustări private în Chișinău.",
+        "counts": {
+          "links": 25,
+          "images": 4,
+          "video": 0,
+          "canvas": 0,
+          "sections": 21,
+          "forms": 2,
+          "buttons": 22,
+          "inputs": 8,
+          "interactive": 55,
+          "scripts": 1,
+          "stylesheets": 1
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [
+          "http://127.0.0.1:4173/app.js"
+        ],
+        "stylesheets": [
+          "http://127.0.0.1:4173/styles.css"
+        ],
+        "sections": [
+          {
+            "tag": "header",
+            "id": "top",
+            "className": "site-header",
+            "text": "+373 60 000 000 Showroom privat · Chișinău Programează o vizită G-COFFEE LUXURY SHOWROOM Experiența Colecția Showroom Jurnal Contacte RO / RU Deschide meniul Experiența Colecția Showroom Jurnal Contacte Programează o vizită",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 1440,
+              "height": 170
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "desktop-nav",
+            "text": "Experiența Colecția Showroom Jurnal Contacte",
+            "rect": {
+              "x": 799,
+              "y": 87,
+              "width": 428,
+              "height": 45
+            },
+            "style": {
+              "display": "flex",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "",
+            "text": "Experiența Colecția Showroom Jurnal Contacte",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "style": {
+              "display": "flex",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "main",
+            "id": "main",
+            "className": "",
+            "text": "Luxury coffee showroom · Chișinău Cafeaua devine un obiect de colecție. Descoperă origini rare, echipamente atent alese și ritualuri create pentru gustul tău. Rezervă o degustare Descoperă colecția Private tasting ritual Gustul potrivit nu ",
+            "rect": {
+              "x": 0,
+              "y": 170,
+              "width": 1440,
+              "height": 5069
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "hero",
+            "text": "Luxury coffee showroom · Chișinău Cafeaua devine un obiect de colecție. Descoperă origini rare, echipamente atent alese și ritualuri create pentru gustul tău. Rezervă o degustare Descoperă colecția Private tasting ritual Gustul potrivit nu ",
+            "rect": {
+              "x": 120,
+              "y": 170,
+              "width": 1200,
+              "height": 640
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgb(45, 29, 22)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "hero__slide is-active",
+            "text": "Luxury coffee showroom · Chișinău Cafeaua devine un obiect de colecție. Descoperă origini rare, echipamente atent alese și ritualuri create pentru gustul tău. Rezervă o degustare Descoperă colecția",
+            "rect": {
+              "x": 120,
+              "y": 170,
+              "width": 1200,
+              "height": 640
+            },
+            "style": {
+              "display": "block",
+              "position": "absolute",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "hero__slide",
+            "text": "Private tasting ritual Gustul potrivit nu se ghicește. Se descoperă. O sesiune ghidată, trei profiluri de aromă și recomandări pentru metoda ta preferată. Alege experiența",
+            "rect": {
+              "x": 120,
+              "y": 170,
+              "width": 1200,
+              "height": 640
+            },
+            "style": {
+              "display": "block",
+              "position": "absolute",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "experience",
+            "className": "intro section",
+            "text": "Curated in Moldova Un showroom pentru cei care aleg cafeaua cu aceeași grijă ca designul. G-Coffee reunește loturi de specialitate, tehnologie pentru espresso și consultanță personală într-un spațiu construit în jurul ritualului. Fără raftu",
+            "rect": {
+              "x": 0,
+              "y": 810,
+              "width": 1440,
+              "height": 620
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "collection",
+            "className": "collection section section--warm",
+            "text": "Selecția showroomului Colecția de început Trei direcții clare pentru espresso, filtru și un setup complet acasă. 01 GETHIOPIAGUJI floral · bergamotă · miere Single origin Aurora 01 · Ethiopia Guji Prăjire luminoasă pentru V60, AeroPress și ",
+            "rect": {
+              "x": 0,
+              "y": 1430,
+              "width": 1440,
+              "height": 1018
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(245, 240, 233)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "product-card",
+            "text": "01 GETHIOPIAGUJI floral · bergamotă · miere Single origin Aurora 01 · Ethiopia Guji Prăjire luminoasă pentru V60, AeroPress și degustare lentă. 320 MDL Solicită",
+            "rect": {
+              "x": 120,
+              "y": 1664,
+              "width": 387,
+              "height": 688
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "product-card",
+            "text": "02 GBRAZILSERRA NEGRA cacao · nuci · caramel House espresso Nocturne 02 · Serra Negra Un espresso catifelat, calibrat pentru lapte și dimineți lungi. 290 MDL Solicită",
+            "rect": {
+              "x": 527,
+              "y": 1664,
+              "width": 387,
+              "height": 688
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "product-card",
+            "text": "03 setup · calibrare · training Home atelier Atelier Home Espresso Selecție de echipament, instalare și o sesiune personală de calibrare. de la 18 900 MDL Consultare",
+            "rect": {
+              "x": 933,
+              "y": 1664,
+              "width": 387,
+              "height": 688
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "showroom",
+            "className": "showroom section",
+            "text": "GPRIVATETASTING Experiența showroomului 45 de minute. Trei cești. O alegere sigură. Începem cu gusturile pe care le cunoști, apoi explorăm profiluri noi și reglăm extracția împreună. Pleci cu rețeta, cafeaua și claritatea de care ai nevoie.",
+            "rect": {
+              "x": 0,
+              "y": 2448,
+              "width": 1440,
+              "height": 835
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "journal",
+            "className": "journal section section--dark",
+            "text": "Note din atelier Mai puțin jargon. Mai mult gust. Ghiduri scurte pentru alegeri mai bune, scrise de echipa showroomului. Ghid Cum alegi espressorul potrivit fără să plătești pentru funcții inutile Citește articolul → Degustare Aciditate, du",
+            "rect": {
+              "x": 0,
+              "y": 3283,
+              "width": 1440,
+              "height": 866
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(45, 29, 22)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "journal-card journal-card--feature",
+            "text": "Ghid Cum alegi espressorul potrivit fără să plătești pentru funcții inutile Citește articolul →",
+            "rect": {
+              "x": 120,
+              "y": 3517,
+              "width": 636,
+              "height": 536
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "",
+            "text": "Degustare Aciditate, dulceață, corp: cele trei repere care contează 06 min",
+            "rect": {
+              "x": 820,
+              "y": 3517,
+              "width": 500,
+              "height": 145
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "",
+            "text": "Ritual Rețeta G-Coffee pentru un espresso echilibrat acasă 04 min",
+            "rect": {
+              "x": 820,
+              "y": 3662,
+              "width": 500,
+              "height": 145
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "",
+            "text": "Origine De ce cafeaua sezonieră are un gust mai viu 05 min",
+            "rect": {
+              "x": 820,
+              "y": 3807,
+              "width": 500,
+              "height": 112
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "contact",
+            "className": "contact section",
+            "text": "Vizitează-ne Showroom privat în Chișinău Lucrăm pe bază de programare pentru a-ți oferi timp, liniște și atenție reală. LocațieChișinău · adresa se confirmă la programare ProgramLun–Sâm · 10:00–19:00 Telefon+373 60 000 000 E-mailhello@gcoff",
+            "rect": {
+              "x": 0,
+              "y": 4149,
+              "width": 1440,
+              "height": 830
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "business-cta",
+            "text": "G-Coffee for business Cafea memorabilă pentru spații care contează. Selecție de cafea, echipamente, instalare și training pentru hoteluri, restaurante și birouri din Moldova. Discută cu un consultant",
+            "rect": {
+              "x": 0,
+              "y": 4979,
+              "width": 1440,
+              "height": 260
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(101, 69, 54)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "footer",
+            "id": "",
+            "className": "footer",
+            "text": "G-COFFEELUXURY SHOWROOM Cafea de specialitate, echipamente și experiențe private în Chișinău. Explorează Experiența Colecția Showroom Jurnal Contact +373 60 000 000 hello@gcoffee.md Chișinău, Republica Moldova O vizită, pe îndelete. Alege z",
+            "rect": {
+              "x": 0,
+              "y": 5239,
+              "width": 1440,
+              "height": 388
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(45, 29, 22)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          }
+        ],
+        "cssVariables": [
+          [
+            "--espresso",
+            "#2d1d16"
+          ],
+          [
+            "--coffee",
+            "#654536"
+          ],
+          [
+            "--roast",
+            "#c37745"
+          ],
+          [
+            "--gold",
+            "#b9a16c"
+          ],
+          [
+            "--canvas",
+            "#f5f0e9"
+          ],
+          [
+            "--cream",
+            "#f8edcf"
+          ],
+          [
+            "--stone",
+            "#e4ddd4"
+          ],
+          [
+            "--border",
+            "#d9d4cd"
+          ],
+          [
+            "--muted",
+            "#786f69"
+          ],
+          [
+            "--surface",
+            "#ffffff"
+          ],
+          [
+            "--ink",
+            "#211a17"
+          ],
+          [
+            "--container",
+            "1200px"
+          ],
+          [
+            "--shadow",
+            "0 16px 48px rgba(45, 29, 22, 0.13)"
+          ]
+        ],
+        "fonts": [
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Lato",
+          "Lato",
+          "Lato",
+          "Lato",
+          "Lato",
+          "Lato"
+        ],
+        "images": [
+          {
+            "src": "http://127.0.0.1:4173/assets/showroom-hero.png",
+            "alt": "Interiorul elegant al showroomului G-Coffee",
+            "width": 1672,
+            "height": 941
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/private-tasting.png",
+            "alt": "Degustare privată de cafea în showroom",
+            "width": 1672,
+            "height": 941
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/private-tasting.png",
+            "alt": "Cafea turnată în timpul unei degustări private",
+            "width": 1672,
+            "height": 941
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/showroom-hero.png",
+            "alt": "Espressor premium în showroom",
+            "width": 1672,
+            "height": 941
+          }
+        ],
+        "canvases": []
+      }
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 900
+      },
+      "screenshot": "screenshots\\clone-768.png",
+      "signals": {
+        "href": "http://127.0.0.1:4173/",
+        "title": "G-Coffee Luxury Showroom | Chișinău",
+        "lang": "ro",
+        "bodyTextChars": 3360,
+        "scrollHeight": 7971,
+        "viewport": {
+          "width": 768,
+          "height": 900
+        },
+        "h1": [
+          "Cafeaua devine un obiect de colecție."
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Cafeaua devine un obiect de colecție."
+          },
+          {
+            "tag": "h2",
+            "text": "Gustul potrivit nu se ghicește. Se descoperă."
+          },
+          {
+            "tag": "h2",
+            "text": "Un showroom pentru cei care aleg cafeaua cu aceeași grijă ca designul."
+          },
+          {
+            "tag": "h2",
+            "text": "Colecția de început"
+          },
+          {
+            "tag": "h3",
+            "text": "Aurora 01 · Ethiopia Guji"
+          },
+          {
+            "tag": "h3",
+            "text": "Nocturne 02 · Serra Negra"
+          },
+          {
+            "tag": "h3",
+            "text": "Atelier Home Espresso"
+          },
+          {
+            "tag": "h2",
+            "text": "45 de minute. Trei cești. O alegere sigură."
+          },
+          {
+            "tag": "h2",
+            "text": "Mai puțin jargon. Mai mult gust."
+          },
+          {
+            "tag": "h3",
+            "text": "Cum alegi espressorul potrivit fără să plătești pentru funcții inutile"
+          },
+          {
+            "tag": "h3",
+            "text": "Aciditate, dulceață, corp: cele trei repere care contează"
+          },
+          {
+            "tag": "h3",
+            "text": "Rețeta G-Coffee pentru un espresso echilibrat acasă"
+          },
+          {
+            "tag": "h3",
+            "text": "De ce cafeaua sezonieră are un gust mai viu"
+          },
+          {
+            "tag": "h2",
+            "text": "Showroom privat în Chișinău"
+          },
+          {
+            "tag": "h2",
+            "text": "Cafea memorabilă pentru spații care contează."
+          },
+          {
+            "tag": "h3",
+            "text": "Explorează"
+          },
+          {
+            "tag": "h3",
+            "text": "Contact"
+          },
+          {
+            "tag": "h3",
+            "text": "O vizită, pe îndelete."
+          },
+          {
+            "tag": "h2",
+            "text": "Ce experiență pregătim pentru tine?"
+          }
+        ],
+        "metaDescription": "G-Coffee Luxury Showroom — cafea de specialitate, echipamente premium și degustări private în Chișinău.",
+        "counts": {
+          "links": 25,
+          "images": 4,
+          "video": 0,
+          "canvas": 0,
+          "sections": 21,
+          "forms": 2,
+          "buttons": 22,
+          "inputs": 8,
+          "interactive": 55,
+          "scripts": 1,
+          "stylesheets": 1
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [
+          "http://127.0.0.1:4173/app.js"
+        ],
+        "stylesheets": [
+          "http://127.0.0.1:4173/styles.css"
+        ],
+        "sections": [
+          {
+            "tag": "header",
+            "id": "top",
+            "className": "site-header",
+            "text": "+373 60 000 000 Showroom privat · Chișinău Programează o vizită G-COFFEE LUXURY SHOWROOM Experiența Colecția Showroom Jurnal Contacte RO / RU Deschide meniul Experiența Colecția Showroom Jurnal Contacte Programează o vizită",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 768,
+              "height": 76
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "desktop-nav",
+            "text": "Experiența Colecția Showroom Jurnal Contacte",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "style": {
+              "display": "none",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "",
+            "text": "Experiența Colecția Showroom Jurnal Contacte",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "style": {
+              "display": "flex",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "main",
+            "id": "main",
+            "className": "",
+            "text": "Luxury coffee showroom · Chișinău Cafeaua devine un obiect de colecție. Descoperă origini rare, echipamente atent alese și ritualuri create pentru gustul tău. Rezervă o degustare Descoperă colecția Private tasting ritual Gustul potrivit nu ",
+            "rect": {
+              "x": 0,
+              "y": 76,
+              "width": 768,
+              "height": 7041
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "hero",
+            "text": "Luxury coffee showroom · Chișinău Cafeaua devine un obiect de colecție. Descoperă origini rare, echipamente atent alese și ritualuri create pentru gustul tău. Rezervă o degustare Descoperă colecția Private tasting ritual Gustul potrivit nu ",
+            "rect": {
+              "x": 0,
+              "y": 76,
+              "width": 768,
+              "height": 680
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgb(45, 29, 22)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "hero__slide is-active",
+            "text": "Luxury coffee showroom · Chișinău Cafeaua devine un obiect de colecție. Descoperă origini rare, echipamente atent alese și ritualuri create pentru gustul tău. Rezervă o degustare Descoperă colecția",
+            "rect": {
+              "x": 0,
+              "y": 76,
+              "width": 768,
+              "height": 680
+            },
+            "style": {
+              "display": "block",
+              "position": "absolute",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "hero__slide",
+            "text": "Private tasting ritual Gustul potrivit nu se ghicește. Se descoperă. O sesiune ghidată, trei profiluri de aromă și recomandări pentru metoda ta preferată. Alege experiența",
+            "rect": {
+              "x": 0,
+              "y": 76,
+              "width": 768,
+              "height": 680
+            },
+            "style": {
+              "display": "block",
+              "position": "absolute",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "experience",
+            "className": "intro section",
+            "text": "Curated in Moldova Un showroom pentru cei care aleg cafeaua cu aceeași grijă ca designul. G-Coffee reunește loturi de specialitate, tehnologie pentru espresso și consultanță personală într-un spațiu construit în jurul ritualului. Fără raftu",
+            "rect": {
+              "x": 0,
+              "y": 756,
+              "width": 768,
+              "height": 759
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "collection",
+            "className": "collection section section--warm",
+            "text": "Selecția showroomului Colecția de început Trei direcții clare pentru espresso, filtru și un setup complet acasă. 01 GETHIOPIAGUJI floral · bergamotă · miere Single origin Aurora 01 · Ethiopia Guji Prăjire luminoasă pentru V60, AeroPress și ",
+            "rect": {
+              "x": 0,
+              "y": 1515,
+              "width": 768,
+              "height": 1633
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(245, 240, 233)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "product-card",
+            "text": "01 GETHIOPIAGUJI floral · bergamotă · miere Single origin Aurora 01 · Ethiopia Guji Prăjire luminoasă pentru V60, AeroPress și degustare lentă. 320 MDL Solicită",
+            "rect": {
+              "x": 16,
+              "y": 1737,
+              "width": 358,
+              "height": 660
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "product-card",
+            "text": "02 GBRAZILSERRA NEGRA cacao · nuci · caramel House espresso Nocturne 02 · Serra Negra Un espresso catifelat, calibrat pentru lapte și dimineți lungi. 290 MDL Solicită",
+            "rect": {
+              "x": 394,
+              "y": 1737,
+              "width": 358,
+              "height": 660
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "product-card",
+            "text": "03 setup · calibrare · training Home atelier Atelier Home Espresso Selecție de echipament, instalare și o sesiune personală de calibrare. de la 18 900 MDL Consultare",
+            "rect": {
+              "x": 16,
+              "y": 2417,
+              "width": 358,
+              "height": 660
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "showroom",
+            "className": "showroom section",
+            "text": "GPRIVATETASTING Experiența showroomului 45 de minute. Trei cești. O alegere sigură. Începem cu gusturile pe care le cunoști, apoi explorăm profiluri noi și reglăm extracția împreună. Pleci cu rețeta, cafeaua și claritatea de care ai nevoie.",
+            "rect": {
+              "x": 0,
+              "y": 3148,
+              "width": 768,
+              "height": 1198
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "journal",
+            "className": "journal section section--dark",
+            "text": "Note din atelier Mai puțin jargon. Mai mult gust. Ghiduri scurte pentru alegeri mai bune, scrise de echipa showroomului. Ghid Cum alegi espressorul potrivit fără să plătești pentru funcții inutile Citește articolul → Degustare Aciditate, du",
+            "rect": {
+              "x": 0,
+              "y": 4346,
+              "width": 768,
+              "height": 1253
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(45, 29, 22)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "journal-card journal-card--feature",
+            "text": "Ghid Cum alegi espressorul potrivit fără să plătești pentru funcții inutile Citește articolul →",
+            "rect": {
+              "x": 16,
+              "y": 4568,
+              "width": 736,
+              "height": 582
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "",
+            "text": "Degustare Aciditate, dulceață, corp: cele trei repere care contează 06 min",
+            "rect": {
+              "x": 16,
+              "y": 5192,
+              "width": 736,
+              "height": 111
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "",
+            "text": "Ritual Rețeta G-Coffee pentru un espresso echilibrat acasă 04 min",
+            "rect": {
+              "x": 16,
+              "y": 5303,
+              "width": 736,
+              "height": 111
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "",
+            "text": "Origine De ce cafeaua sezonieră are un gust mai viu 05 min",
+            "rect": {
+              "x": 16,
+              "y": 5415,
+              "width": 736,
+              "height": 112
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "contact",
+            "className": "contact section",
+            "text": "Vizitează-ne Showroom privat în Chișinău Lucrăm pe bază de programare pentru a-ți oferi timp, liniște și atenție reală. LocațieChișinău · adresa se confirmă la programare ProgramLun–Sâm · 10:00–19:00 Telefon+373 60 000 000 E-mailhello@gcoff",
+            "rect": {
+              "x": 0,
+              "y": 5599,
+              "width": 768,
+              "height": 1198
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "business-cta",
+            "text": "G-Coffee for business Cafea memorabilă pentru spații care contează. Selecție de cafea, echipamente, instalare și training pentru hoteluri, restaurante și birouri din Moldova. Discută cu un consultant",
+            "rect": {
+              "x": 0,
+              "y": 6796,
+              "width": 768,
+              "height": 320
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(101, 69, 54)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "footer",
+            "id": "",
+            "className": "footer",
+            "text": "G-COFFEELUXURY SHOWROOM Cafea de specialitate, echipamente și experiențe private în Chișinău. Explorează Experiența Colecția Showroom Jurnal Contact +373 60 000 000 hello@gcoffee.md Chișinău, Republica Moldova O vizită, pe îndelete. Alege z",
+            "rect": {
+              "x": 0,
+              "y": 7117,
+              "width": 768,
+              "height": 854
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(45, 29, 22)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          }
+        ],
+        "cssVariables": [
+          [
+            "--espresso",
+            "#2d1d16"
+          ],
+          [
+            "--coffee",
+            "#654536"
+          ],
+          [
+            "--roast",
+            "#c37745"
+          ],
+          [
+            "--gold",
+            "#b9a16c"
+          ],
+          [
+            "--canvas",
+            "#f5f0e9"
+          ],
+          [
+            "--cream",
+            "#f8edcf"
+          ],
+          [
+            "--stone",
+            "#e4ddd4"
+          ],
+          [
+            "--border",
+            "#d9d4cd"
+          ],
+          [
+            "--muted",
+            "#786f69"
+          ],
+          [
+            "--surface",
+            "#ffffff"
+          ],
+          [
+            "--ink",
+            "#211a17"
+          ],
+          [
+            "--container",
+            "1200px"
+          ],
+          [
+            "--shadow",
+            "0 16px 48px rgba(45, 29, 22, 0.13)"
+          ]
+        ],
+        "fonts": [
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Lato",
+          "Lato",
+          "Lato",
+          "Lato",
+          "Lato",
+          "Lato"
+        ],
+        "images": [
+          {
+            "src": "http://127.0.0.1:4173/assets/showroom-hero.png",
+            "alt": "Interiorul elegant al showroomului G-Coffee",
+            "width": 1672,
+            "height": 941
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/private-tasting.png",
+            "alt": "Degustare privată de cafea în showroom",
+            "width": 1672,
+            "height": 941
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/private-tasting.png",
+            "alt": "Cafea turnată în timpul unei degustări private",
+            "width": 1672,
+            "height": 941
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/showroom-hero.png",
+            "alt": "Espressor premium în showroom",
+            "width": 1672,
+            "height": 941
+          }
+        ],
+        "canvases": []
+      }
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "screenshot": "screenshots\\clone-390.png",
+      "signals": {
+        "href": "http://127.0.0.1:4173/",
+        "title": "G-Coffee Luxury Showroom | Chișinău",
+        "lang": "ro",
+        "bodyTextChars": 3346,
+        "scrollHeight": 9273,
+        "viewport": {
+          "width": 390,
+          "height": 900
+        },
+        "h1": [
+          "Cafeaua devine un obiect de colecție."
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Cafeaua devine un obiect de colecție."
+          },
+          {
+            "tag": "h2",
+            "text": "Gustul potrivit nu se ghicește. Se descoperă."
+          },
+          {
+            "tag": "h2",
+            "text": "Un showroom pentru cei care aleg cafeaua cu aceeași grijă ca designul."
+          },
+          {
+            "tag": "h2",
+            "text": "Colecția de început"
+          },
+          {
+            "tag": "h3",
+            "text": "Aurora 01 · Ethiopia Guji"
+          },
+          {
+            "tag": "h3",
+            "text": "Nocturne 02 · Serra Negra"
+          },
+          {
+            "tag": "h3",
+            "text": "Atelier Home Espresso"
+          },
+          {
+            "tag": "h2",
+            "text": "45 de minute. Trei cești. O alegere sigură."
+          },
+          {
+            "tag": "h2",
+            "text": "Mai puțin jargon. Mai mult gust."
+          },
+          {
+            "tag": "h3",
+            "text": "Cum alegi espressorul potrivit fără să plătești pentru funcții inutile"
+          },
+          {
+            "tag": "h3",
+            "text": "Aciditate, dulceață, corp: cele trei repere care contează"
+          },
+          {
+            "tag": "h3",
+            "text": "Rețeta G-Coffee pentru un espresso echilibrat acasă"
+          },
+          {
+            "tag": "h3",
+            "text": "De ce cafeaua sezonieră are un gust mai viu"
+          },
+          {
+            "tag": "h2",
+            "text": "Showroom privat în Chișinău"
+          },
+          {
+            "tag": "h2",
+            "text": "Cafea memorabilă pentru spații care contează."
+          },
+          {
+            "tag": "h3",
+            "text": "Explorează"
+          },
+          {
+            "tag": "h3",
+            "text": "Contact"
+          },
+          {
+            "tag": "h3",
+            "text": "O vizită, pe îndelete."
+          },
+          {
+            "tag": "h2",
+            "text": "Ce experiență pregătim pentru tine?"
+          }
+        ],
+        "metaDescription": "G-Coffee Luxury Showroom — cafea de specialitate, echipamente premium și degustări private în Chișinău.",
+        "counts": {
+          "links": 25,
+          "images": 4,
+          "video": 0,
+          "canvas": 0,
+          "sections": 21,
+          "forms": 2,
+          "buttons": 22,
+          "inputs": 8,
+          "interactive": 55,
+          "scripts": 1,
+          "stylesheets": 1
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [
+          "http://127.0.0.1:4173/app.js"
+        ],
+        "stylesheets": [
+          "http://127.0.0.1:4173/styles.css"
+        ],
+        "sections": [
+          {
+            "tag": "header",
+            "id": "top",
+            "className": "site-header",
+            "text": "+373 60 000 000 Showroom privat · Chișinău Programează o vizită G-COFFEE LUXURY SHOWROOM Experiența Colecția Showroom Jurnal Contacte RO / RU Deschide meniul Experiența Colecția Showroom Jurnal Contacte Programează o vizită",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 390,
+              "height": 76
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "desktop-nav",
+            "text": "Experiența Colecția Showroom Jurnal Contacte",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "style": {
+              "display": "none",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "",
+            "text": "Experiența Colecția Showroom Jurnal Contacte",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "style": {
+              "display": "flex",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "main",
+            "id": "main",
+            "className": "",
+            "text": "Luxury coffee showroom · Chișinău Cafeaua devine un obiect de colecție. Descoperă origini rare, echipamente atent alese și ritualuri create pentru gustul tău. Rezervă o degustare Descoperă colecția Private tasting ritual Gustul potrivit nu ",
+            "rect": {
+              "x": 0,
+              "y": 76,
+              "width": 390,
+              "height": 8181
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "hero",
+            "text": "Luxury coffee showroom · Chișinău Cafeaua devine un obiect de colecție. Descoperă origini rare, echipamente atent alese și ritualuri create pentru gustul tău. Rezervă o degustare Descoperă colecția Private tasting ritual Gustul potrivit nu ",
+            "rect": {
+              "x": 0,
+              "y": 76,
+              "width": 390,
+              "height": 620
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgb(45, 29, 22)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "hero__slide is-active",
+            "text": "Luxury coffee showroom · Chișinău Cafeaua devine un obiect de colecție. Descoperă origini rare, echipamente atent alese și ritualuri create pentru gustul tău. Rezervă o degustare Descoperă colecția",
+            "rect": {
+              "x": 0,
+              "y": 76,
+              "width": 390,
+              "height": 620
+            },
+            "style": {
+              "display": "block",
+              "position": "absolute",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "hero__slide",
+            "text": "Private tasting ritual Gustul potrivit nu se ghicește. Se descoperă. O sesiune ghidată, trei profiluri de aromă și recomandări pentru metoda ta preferată. Alege experiența",
+            "rect": {
+              "x": 0,
+              "y": 76,
+              "width": 390,
+              "height": 620
+            },
+            "style": {
+              "display": "block",
+              "position": "absolute",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "experience",
+            "className": "intro section",
+            "text": "Curated in Moldova Un showroom pentru cei care aleg cafeaua cu aceeași grijă ca designul. G-Coffee reunește loturi de specialitate, tehnologie pentru espresso și consultanță personală într-un spațiu construit în jurul ritualului. Fără raftu",
+            "rect": {
+              "x": 0,
+              "y": 696,
+              "width": 390,
+              "height": 1020
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "collection",
+            "className": "collection section section--warm",
+            "text": "Selecția showroomului Colecția de început Trei direcții clare pentru espresso, filtru și un setup complet acasă. 01 GETHIOPIAGUJI floral · bergamotă · miere Single origin Aurora 01 · Ethiopia Guji Prăjire luminoasă pentru V60, AeroPress și ",
+            "rect": {
+              "x": 0,
+              "y": 1716,
+              "width": 390,
+              "height": 2154
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(245, 240, 233)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "product-card",
+            "text": "01 GETHIOPIAGUJI floral · bergamotă · miere Single origin Aurora 01 · Ethiopia Guji Prăjire luminoasă pentru V60, AeroPress și degustare lentă. 320 MDL Solicită",
+            "rect": {
+              "x": 16,
+              "y": 1956,
+              "width": 358,
+              "height": 601
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "product-card",
+            "text": "02 GBRAZILSERRA NEGRA cacao · nuci · caramel House espresso Nocturne 02 · Serra Negra Un espresso catifelat, calibrat pentru lapte și dimineți lungi. 290 MDL Solicită",
+            "rect": {
+              "x": 16,
+              "y": 2582,
+              "width": 358,
+              "height": 601
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "product-card",
+            "text": "03 setup · calibrare · training Home atelier Atelier Home Espresso Selecție de echipament, instalare și o sesiune personală de calibrare. de la 18 900 MDL Consultare",
+            "rect": {
+              "x": 16,
+              "y": 3207,
+              "width": 358,
+              "height": 601
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "showroom",
+            "className": "showroom section",
+            "text": "GPRIVATETASTING Experiența showroomului 45 de minute. Trei cești. O alegere sigură. Începem cu gusturile pe care le cunoști, apoi explorăm profiluri noi și reglăm extracția împreună. Pleci cu rețeta, cafeaua și claritatea de care ai nevoie.",
+            "rect": {
+              "x": 0,
+              "y": 3870,
+              "width": 390,
+              "height": 1253
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "journal",
+            "className": "journal section section--dark",
+            "text": "Note din atelier Mai puțin jargon. Mai mult gust. Ghiduri scurte pentru alegeri mai bune, scrise de echipa showroomului. Ghid Cum alegi espressorul potrivit fără să plătești pentru funcții inutile Citește articolul → Degustare Aciditate, du",
+            "rect": {
+              "x": 0,
+              "y": 5123,
+              "width": 390,
+              "height": 1362
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(45, 29, 22)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "journal-card journal-card--feature",
+            "text": "Ghid Cum alegi espressorul potrivit fără să plătești pentru funcții inutile Citește articolul →",
+            "rect": {
+              "x": 16,
+              "y": 5404,
+              "width": 358,
+              "height": 541
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "",
+            "text": "Degustare Aciditate, dulceață, corp: cele trei repere care contează 06 min",
+            "rect": {
+              "x": 16,
+              "y": 5987,
+              "width": 358,
+              "height": 145
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "",
+            "text": "Ritual Rețeta G-Coffee pentru un espresso echilibrat acasă 04 min",
+            "rect": {
+              "x": 16,
+              "y": 6132,
+              "width": 358,
+              "height": 145
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "",
+            "text": "Origine De ce cafeaua sezonieră are un gust mai viu 05 min",
+            "rect": {
+              "x": 16,
+              "y": 6277,
+              "width": 358,
+              "height": 146
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "contact",
+            "className": "contact section",
+            "text": "Vizitează-ne Showroom privat în Chișinău Lucrăm pe bază de programare pentru a-ți oferi timp, liniște și atenție reală. LocațieChișinău · adresa se confirmă la programare ProgramLun–Sâm · 10:00–19:00 Telefon+373 60 000 000 E-mailhello@gcoff",
+            "rect": {
+              "x": 0,
+              "y": 6485,
+              "width": 390,
+              "height": 1386
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(33, 26, 23)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "business-cta",
+            "text": "G-Coffee for business Cafea memorabilă pentru spații care contează. Selecție de cafea, echipamente, instalare și training pentru hoteluri, restaurante și birouri din Moldova. Discută cu un consultant",
+            "rect": {
+              "x": 0,
+              "y": 7872,
+              "width": 390,
+              "height": 385
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(101, 69, 54)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "footer",
+            "id": "",
+            "className": "footer",
+            "text": "G-COFFEELUXURY SHOWROOM Cafea de specialitate, echipamente și experiențe private în Chișinău. Explorează Experiența Colecția Showroom Jurnal Contact +373 60 000 000 hello@gcoffee.md Chișinău, Republica Moldova O vizită, pe îndelete. Alege z",
+            "rect": {
+              "x": 0,
+              "y": 8257,
+              "width": 390,
+              "height": 1016
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(45, 29, 22)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Lato, Arial, Helvetica, sans-serif",
+              "fontSize": "16px"
+            }
+          }
+        ],
+        "cssVariables": [
+          [
+            "--espresso",
+            "#2d1d16"
+          ],
+          [
+            "--coffee",
+            "#654536"
+          ],
+          [
+            "--roast",
+            "#c37745"
+          ],
+          [
+            "--gold",
+            "#b9a16c"
+          ],
+          [
+            "--canvas",
+            "#f5f0e9"
+          ],
+          [
+            "--cream",
+            "#f8edcf"
+          ],
+          [
+            "--stone",
+            "#e4ddd4"
+          ],
+          [
+            "--border",
+            "#d9d4cd"
+          ],
+          [
+            "--muted",
+            "#786f69"
+          ],
+          [
+            "--surface",
+            "#ffffff"
+          ],
+          [
+            "--ink",
+            "#211a17"
+          ],
+          [
+            "--container",
+            "1200px"
+          ],
+          [
+            "--shadow",
+            "0 16px 48px rgba(45, 29, 22, 0.13)"
+          ]
+        ],
+        "fonts": [
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Lato",
+          "Lato",
+          "Lato",
+          "Lato",
+          "Lato",
+          "Lato"
+        ],
+        "images": [
+          {
+            "src": "http://127.0.0.1:4173/assets/showroom-hero.png",
+            "alt": "Interiorul elegant al showroomului G-Coffee",
+            "width": 1672,
+            "height": 941
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/private-tasting.png",
+            "alt": "Degustare privată de cafea în showroom",
+            "width": 1672,
+            "height": 941
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/private-tasting.png",
+            "alt": "Cafea turnată în timpul unei degustări private",
+            "width": 1672,
+            "height": 941
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/showroom-hero.png",
+            "alt": "Espressor premium în showroom",
+            "width": 1672,
+            "height": 941
+          }
+        ],
+        "canvases": []
+      }
+    }
+  ]
+}

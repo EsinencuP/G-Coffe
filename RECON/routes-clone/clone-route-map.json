@@ -1,0 +1,111 @@
+{
+  "label": "clone",
+  "url": "http://127.0.0.1:4173",
+  "capturedAt": "2026-07-21T19:25:25.052Z",
+  "maxPages": 3,
+  "maxDepth": 1,
+  "allowSubdomains": false,
+  "routes": [
+    {
+      "url": "http://127.0.0.1:4173",
+      "from": "",
+      "depth": 0,
+      "status": 200,
+      "title": "G-Coffee Luxury Showroom | Chișinău",
+      "lang": "ro",
+      "metaDescription": "G-Coffee Luxury Showroom — cafea de specialitate, echipamente premium și degustări private în Chișinău.",
+      "h1": [
+        "Cafeaua devine un obiect de colecție."
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Cafeaua devine un obiect de colecție."
+        },
+        {
+          "tag": "h2",
+          "text": "Gustul potrivit nu se ghicește. Se descoperă."
+        },
+        {
+          "tag": "h2",
+          "text": "Un showroom pentru cei care aleg cafeaua cu aceeași grijă ca designul."
+        },
+        {
+          "tag": "h2",
+          "text": "Colecția de început"
+        },
+        {
+          "tag": "h3",
+          "text": "Aurora 01 · Ethiopia Guji"
+        },
+        {
+          "tag": "h3",
+          "text": "Nocturne 02 · Serra Negra"
+        },
+        {
+          "tag": "h3",
+          "text": "Atelier Home Espresso"
+        },
+        {
+          "tag": "h2",
+          "text": "45 de minute. Trei cești. O alegere sigură."
+        },
+        {
+          "tag": "h2",
+          "text": "Mai puțin jargon. Mai mult gust."
+        },
+        {
+          "tag": "h3",
+          "text": "Cum alegi espressorul potrivit fără să plătești pentru funcții inutile"
+        },
+        {
+          "tag": "h3",
+          "text": "Aciditate, dulceață, corp: cele trei repere care contează"
+        },
+        {
+          "tag": "h3",
+          "text": "Rețeta G-Coffee pentru un espresso echilibrat acasă"
+        },
+        {
+          "tag": "h3",
+          "text": "De ce cafeaua sezonieră are un gust mai viu"
+        },
+        {
+          "tag": "h2",
+          "text": "Showroom privat în Chișinău"
+        },
+        {
+          "tag": "h2",
+          "text": "Cafea memorabilă pentru spații care contează."
+        },
+        {
+          "tag": "h3",
+          "text": "Explorează"
+        },
+        {
+          "tag": "h3",
+          "text": "Contact"
+        },
+        {
+          "tag": "h3",
+          "text": "O vizită, pe îndelete."
+        },
+        {
+          "tag": "h2",
+          "text": "Ce experiență pregătim pentru tine?"
+        }
+      ],
+      "counts": {
+        "links": 25,
+        "images": 4,
+        "canvas": 0,
+        "forms": 2,
+        "buttons": 22
+      },
+      "linkCount": 25,
+      "screenshot": "screenshots\\127.0.0.1-588206d6.png",
+      "consoleErrors": []
+    }
+  ],
+  "skipped": []
+}

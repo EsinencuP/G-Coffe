@@ -1,0 +1,495 @@
+{
+  "meta": {
+    "name": "G-Coffee Luxury Showroom",
+    "description": "",
+    "source_references": "https://coffeeshare.eu/",
+    "created_at": ""
+  },
+  "design_system": {
+    "color": {
+      "palette_type": "",
+      "primary": {
+        "hex": "",
+        "role": ""
+      },
+      "secondary": {
+        "hex": "",
+        "role": ""
+      },
+      "accent": {
+        "hex": "",
+        "role": ""
+      },
+      "neutral": {
+        "scale": "",
+        "usage": ""
+      },
+      "semantic": {
+        "success": "",
+        "warning": "",
+        "error": "",
+        "info": ""
+      },
+      "surface": {
+        "background": "rgb(62, 42, 31)",
+        "card": "",
+        "elevated": ""
+      },
+      "contrast_strategy": ""
+    },
+    "typography": {
+      "type_scale": {
+        "display": {
+          "size": "",
+          "weight": "",
+          "line_height": "",
+          "tracking": ""
+        },
+        "heading_1": {
+          "size": "",
+          "weight": "",
+          "line_height": "",
+          "tracking": ""
+        },
+        "heading_2": {
+          "size": "",
+          "weight": "",
+          "line_height": "",
+          "tracking": ""
+        },
+        "heading_3": {
+          "size": "",
+          "weight": "",
+          "line_height": "",
+          "tracking": ""
+        },
+        "body": {
+          "size": "",
+          "weight": "",
+          "line_height": "",
+          "tracking": ""
+        },
+        "body_small": {
+          "size": "",
+          "weight": "",
+          "line_height": "",
+          "tracking": ""
+        },
+        "caption": {
+          "size": "",
+          "weight": "",
+          "line_height": "",
+          "tracking": ""
+        },
+        "overline": {
+          "size": "",
+          "weight": "",
+          "line_height": "",
+          "tracking": ""
+        }
+      },
+      "font_families": {
+        "heading": "Karla",
+        "body": "Montserrat",
+        "mono": ""
+      },
+      "font_style_notes": ""
+    },
+    "spacing": {
+      "base_unit": "",
+      "scale": "",
+      "content_density": "",
+      "section_rhythm": ""
+    },
+    "layout": {
+      "grid_system": "",
+      "max_content_width": "",
+      "columns": "",
+      "gutter": "",
+      "breakpoints": "",
+      "alignment_tendency": ""
+    },
+    "shape": {
+      "border_radius": {
+        "small": "",
+        "medium": "",
+        "large": "",
+        "pill": ""
+      },
+      "border_usage": "",
+      "divider_style": ""
+    },
+    "elevation": {
+      "shadow_style": "",
+      "levels": {
+        "low": "",
+        "medium": "",
+        "high": ""
+      },
+      "depth_cues": ""
+    },
+    "iconography": {
+      "style": "",
+      "stroke_weight": "",
+      "size_scale": "",
+      "preferred_set": ""
+    },
+    "motion": {
+      "easing": "",
+      "duration_scale": {
+        "micro": "",
+        "normal": "",
+        "macro": ""
+      },
+      "entrance_pattern": "",
+      "exit_pattern": "",
+      "philosophy": ""
+    },
+    "components": {
+      "button_style": "",
+      "input_style": "",
+      "card_style": "",
+      "navigation_pattern": "",
+      "modal_style": "",
+      "list_style": "",
+      "component_notes": ""
+    }
+  },
+  "design_style": {
+    "aesthetic": {
+      "mood": [],
+      "visual_metaphor": "",
+      "era_influence": "",
+      "genre": "",
+      "personality_traits": [],
+      "adjectives": []
+    },
+    "visual_language": {
+      "complexity": "",
+      "ornamentation": "",
+      "whitespace_usage": "",
+      "visual_weight_distribution": "",
+      "focal_strategy": "",
+      "contrast_level": "",
+      "texture_usage": ""
+    },
+    "composition": {
+      "hierarchy_method": "",
+      "balance_type": "",
+      "flow_direction": "",
+      "grouping_strategy": "",
+      "negative_space_role": ""
+    },
+    "imagery": {
+      "photo_treatment": "",
+      "illustration_style": "",
+      "graphic_elements": "",
+      "pattern_usage": "",
+      "image_shape": ""
+    },
+    "interaction_feel": {
+      "feedback_style": "",
+      "hover_behavior": "",
+      "transition_personality": "",
+      "loading_style": "",
+      "microinteraction_density": ""
+    },
+    "brand_voice_in_ui": {
+      "tone": "",
+      "formality": "",
+      "cta_style": "",
+      "empty_state_approach": "",
+      "error_tone": ""
+    }
+  },
+  "visual_effects": {
+    "overview": {
+      "effect_intensity": "",
+      "performance_tier": "",
+      "fallback_strategy": "",
+      "primary_technology": ""
+    },
+    "background_effects": {
+      "type": "",
+      "description": "",
+      "technology": "",
+      "params": {
+        "color_palette": "",
+        "speed": "",
+        "density": "",
+        "opacity": "",
+        "blend_mode": ""
+      }
+    },
+    "particle_systems": {
+      "enabled": false,
+      "type": "",
+      "description": "",
+      "technology": "",
+      "params": {
+        "count": "",
+        "shape": "",
+        "size_range": "",
+        "movement_pattern": "",
+        "color_behavior": "",
+        "interaction": "",
+        "spawn_area": ""
+      }
+    },
+    "3d_elements": {
+      "enabled": false,
+      "type": "",
+      "description": "",
+      "technology": "",
+      "params": {
+        "renderer": "",
+        "lighting": "",
+        "camera": "",
+        "materials": "",
+        "geometry": "",
+        "post_processing": [],
+        "interaction_model": ""
+      }
+    },
+    "shader_effects": {
+      "enabled": false,
+      "type": "",
+      "description": "",
+      "technology": "",
+      "params": {
+        "uniforms": "",
+        "vertex_manipulation": "",
+        "fragment_output": "",
+        "noise_type": "",
+        "distortion": ""
+      }
+    },
+    "scroll_effects": {
+      "parallax": {
+        "enabled": false,
+        "layers": "",
+        "depth_range": "",
+        "speed_curve": ""
+      },
+      "scroll_triggered_animations": {
+        "enabled": false,
+        "trigger_points": "",
+        "animation_type": "",
+        "scrub_behavior": ""
+      },
+      "scroll_morphing": {
+        "enabled": false,
+        "description": ""
+      }
+    },
+    "text_effects": {
+      "type": "",
+      "description": "",
+      "technology": "",
+      "params": {
+        "split_strategy": "",
+        "animation_per_unit": "",
+        "stagger": "",
+        "effect_style": ""
+      }
+    },
+    "cursor_effects": {
+      "enabled": false,
+      "type": "",
+      "description": "",
+      "params": {
+        "shape": "",
+        "size": "",
+        "blend_mode": "",
+        "trail": "",
+        "interaction_zone": ""
+      }
+    },
+    "image_effects": {
+      "type": "",
+      "description": "",
+      "technology": "",
+      "params": {
+        "filter_pipeline": "",
+        "hover_transform": "",
+        "reveal_animation": "",
+        "distortion_type": ""
+      }
+    },
+    "glassmorphism_neumorphism": {
+      "enabled": false,
+      "style": "",
+      "params": {
+        "blur_radius": "",
+        "transparency": "",
+        "border_treatment": "",
+        "shadow_type": "",
+        "light_source_angle": ""
+      }
+    },
+    "canvas_drawings": {
+      "enabled": false,
+      "type": "",
+      "description": "",
+      "technology": "",
+      "params": {
+        "draw_method": "",
+        "animation_loop": "",
+        "color_scheme": "",
+        "responsiveness": "",
+        "interaction": ""
+      }
+    },
+    "svg_animations": {
+      "enabled": false,
+      "type": "",
+      "description": "",
+      "params": {
+        "animation_method": "",
+        "path_morphing": "",
+        "stroke_animation": "",
+        "filter_effects": ""
+      }
+    },
+    "composite_notes": ""
+  },
+  "_recon_signals": {
+    "fonts": [
+      "Karla",
+      "Montserrat",
+      "tutor",
+      "star",
+      "WooCommerce",
+      "Alegreya"
+    ],
+    "color_candidates": [
+      "#ECEFF3",
+      "#F9FAFB",
+      "0px 0px 4px 0 #00000057",
+      "#fff",
+      "#fbfbfb",
+      "#fafafa",
+      "#eeeeee",
+      "#e7e7e7",
+      "#e6e6e6",
+      "#000",
+      "#FFF",
+      "#FD9800",
+      "#E98C00",
+      "#0F172A",
+      "#454F5E",
+      "#FFFFFF",
+      "#FEF9E1",
+      "#141006",
+      "#F9F0C8",
+      "#222222",
+      "#e5ded8",
+      "#7a00df",
+      "#ddd",
+      "#007cba"
+    ],
+    "frameworks": {
+      "react": false,
+      "next": false,
+      "vue": false,
+      "nuxt": false,
+      "svelte": false,
+      "astro": false,
+      "three": false,
+      "gsap": false,
+      "lenis": false
+    },
+    "canvas_count": 0,
+    "css_color_vars": [
+      "--ast-code-block-background: #ECEFF3",
+      "--ast-comment-inputs-background: #F9FAFB",
+      "--ast-shadow-style-guide: 0px 0px 4px 0 #00000057",
+      "--ast-global-dark-bg-style: #fff",
+      "--ast-global-dark-lfs: #fbfbfb",
+      "--ast-widget-bg-color: #fafafa",
+      "--ast-wc-container-head-bg-color: #fbfbfb",
+      "--ast-title-layout-bg: #eeeeee",
+      "--ast-search-border-color: #e7e7e7",
+      "--ast-lifter-hover-bg: #e6e6e6",
+      "--ast-gallery-block-color: #000",
+      "--ast-comment-inputs-background: #FFF",
+      "--ast-global-color-0: #FD9800",
+      "--ast-global-color-1: #E98C00",
+      "--ast-global-color-2: #0F172A",
+      "--ast-global-color-3: #454F5E",
+      "--ast-global-color-4: #FFFFFF",
+      "--ast-global-color-5: #FEF9E1",
+      "--ast-global-color-6: #141006",
+      "--ast-global-color-7: #F9F0C8",
+      "--ast-global-color-8: #222222",
+      "--ast-border-color: #e5ded8",
+      "--wp-block-synced-color: #7a00df",
+      "--wp-editor-canvas-background: #ddd",
+      "--wp-admin-theme-color: #007cba",
+      "--wp-admin-theme-color-darker-10: #006ba1",
+      "--wp-admin-theme-color-darker-20: #005a87",
+      "--wp--preset--color--black: #000000",
+      "--wp--preset--color--cyan-bluish-gray: #abb8c3",
+      "--wp--preset--color--white: #ffffff",
+      "--wp--preset--color--pale-pink: #f78da7",
+      "--wp--preset--color--vivid-red: #cf2e2e",
+      "--wp--preset--color--luminous-vivid-orange: #ff6900",
+      "--wp--preset--color--luminous-vivid-amber: #fcb900",
+      "--wp--preset--color--light-green-cyan: #7bdcb5",
+      "--wp--preset--color--vivid-green-cyan: #00d084",
+      "--wp--preset--color--pale-cyan-blue: #8ed1fc",
+      "--wp--preset--color--vivid-cyan-blue: #0693e3",
+      "--wp--preset--color--vivid-purple: #9b51e0",
+      "--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%)",
+      "--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%)",
+      "--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%)",
+      "--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%)",
+      "--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%)",
+      "--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%)",
+      "--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%)",
+      "--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%)",
+      "--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%)",
+      "--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%)",
+      "--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%)",
+      "--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%)",
+      "--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2)",
+      "--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4)",
+      "--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2)",
+      "--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0)",
+      "--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0)",
+      "--tutor-color-white: #fff",
+      "--tutor-color-success: #24a148",
+      "--tutor-color-warning: #ed9700",
+      "--tutor-color-danger: #f44337",
+      "--tutor-color-secondary: #41454f",
+      "--tutor-color-subdued: #5b616f",
+      "--tutor-color-hints: #767c8e",
+      "--tutor-color-muted: #757c8e",
+      "--tutor-color-gray: #e3e5eb",
+      "--tutor-color-gray-10: #eff1f6",
+      "--scrollbarBG: rgba(205,207,213,.5)",
+      "--thumbBG: #3e64de",
+      "--scrollbarBG: rgba(205,207,213,0)",
+      "--thumbBG: #d2dbf5",
+      "--color: #b3b3b3",
+      "--tutor-color-white: #fff",
+      "--tutor-color-success: #24a148",
+      "--tutor-color-warning: #ed9700",
+      "--tutor-color-danger: #f44337",
+      "--tutor-color-secondary: #41454f",
+      "--tutor-color-subdued: #5b616f",
+      "--tutor-color-hints: #767c8e",
+      "--tutor-color-muted: #757c8e",
+      "--tutor-color-gray: #e3e5eb",
+      "--tutor-color-gray-10: #eff1f6",
+      "--tutor-color-primary: #6f4e37",
+      "--tutor-color-primary-hover: #c97a40",
+      "--tutor-body-color: #4a4a4a",
+      "--tutor-border-color: #cdcfd5",
+      "--tutor-color-gray: #e3e5eb",
+      "--cmplz_banner_background_color: #ffffff",
+      "--cmplz_banner_border_color: #f2f2f2"
+    ]
+  },
+  "_scaffold_note": "best-effort 预填来自 recon。font_families/surface.background/visual_effects 已据真实信号填写；color 的 primary/secondary/accent 角色需人工从 _recon_signals.color_candidates 指派；所有 \"\" 字段需人工 Analyze 补全(见 references/design-dna.md)。确认无误后可删除 _recon_signals 与本说明。"
+}

@@ -1,0 +1,505 @@
+{
+  "label": "original",
+  "url": "https://coffeeshare.eu",
+  "capturedAt": "2026-07-21T19:10:07.024Z",
+  "maxPages": 8,
+  "maxDepth": 1,
+  "allowSubdomains": false,
+  "routes": [
+    {
+      "url": "https://coffeeshare.eu",
+      "from": "",
+      "depth": 0,
+      "status": 200,
+      "title": "Torrefazione Artigianale a Vignola | Qualità e Freschezza",
+      "lang": "it-IT",
+      "metaDescription": "La nostra torrefazione artigianale Vignola seleziona solo caffè di alta qualità, attraverso un’attenta scelta delle materie prime e un processo di lavorazione interno preciso e controllato.",
+      "h1": [
+        "5%"
+      ],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Academy Coffeeshare"
+        },
+        {
+          "tag": "h2",
+          "text": "Scopri il Piacere del Vero Caffè"
+        },
+        {
+          "tag": "h2",
+          "text": "SHOP ONLINE"
+        },
+        {
+          "tag": "h2",
+          "text": "Specialty Coffee"
+        },
+        {
+          "tag": "h2",
+          "text": "Edizione limitata"
+        },
+        {
+          "tag": "h2",
+          "text": "Perché scegliere Etiopia Yirgacheffe"
+        },
+        {
+          "tag": "h3",
+          "text": "La storia di COFFEESHARE®"
+        },
+        {
+          "tag": "h1",
+          "text": "5%"
+        },
+        {
+          "tag": "h2",
+          "text": "di sconto, solo per te"
+        },
+        {
+          "tag": "h2",
+          "text": "Faq"
+        }
+      ],
+      "counts": {
+        "links": 71,
+        "images": 20,
+        "canvas": 0,
+        "forms": 1,
+        "buttons": 21
+      },
+      "linkCount": 71,
+      "screenshot": "screenshots\\coffeeshare.eu-e5c219fa.png",
+      "consoleErrors": []
+    },
+    {
+      "url": "https://coffeeshare.eu/cookie-policy-ue",
+      "from": "https://coffeeshare.eu",
+      "depth": 1,
+      "status": 200,
+      "title": "Cookie Policy (UE) -",
+      "lang": "it-IT",
+      "metaDescription": "",
+      "h1": [
+        "Cookie Policy (UE)"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Cookie Policy (UE)"
+        },
+        {
+          "tag": "h2",
+          "text": "Faq"
+        }
+      ],
+      "counts": {
+        "links": 40,
+        "images": 3,
+        "canvas": 0,
+        "forms": 0,
+        "buttons": 9
+      },
+      "linkCount": 40,
+      "screenshot": "screenshots\\coffeeshare.eu-cookie-policy-ue-dc67c7a2.png",
+      "consoleErrors": []
+    },
+    {
+      "url": "https://coffeeshare.eu/privacy-policy",
+      "from": "https://coffeeshare.eu",
+      "depth": 1,
+      "status": 200,
+      "title": "Privacy Policy -",
+      "lang": "it-IT",
+      "metaDescription": "La presente privacy policy https://www.coffeeshare.eu/new/privacy si applica al sito web https://www.coffeeshare.eu/new/  e disciplina il trattamento dei dati",
+      "h1": [
+        "Privacy Policy"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Privacy Policy"
+        },
+        {
+          "tag": "h2",
+          "text": "Faq"
+        }
+      ],
+      "counts": {
+        "links": 40,
+        "images": 3,
+        "canvas": 0,
+        "forms": 0,
+        "buttons": 9
+      },
+      "linkCount": 40,
+      "screenshot": "screenshots\\coffeeshare.eu-privacy-policy-00f6e136.png",
+      "consoleErrors": []
+    },
+    {
+      "url": "https://coffeeshare.eu/programma-fedelta-coffeeshare",
+      "from": "https://coffeeshare.eu",
+      "depth": 1,
+      "status": 200,
+      "title": "Programma Fedeltà Coffeeshare -",
+      "lang": "it-IT",
+      "metaDescription": "Scopri il Programma Fedeltà CoffeeShare: ricevi cashback di Credito CoffeeShare su ogni ordine completato e utilizzalo per i tuoi prossimi.",
+      "h1": [],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Programma Fedeltà Coffeeshare"
+        },
+        {
+          "tag": "h3",
+          "text": "Il caffè che ami… ti premia."
+        },
+        {
+          "tag": "h2",
+          "text": "Tre vantaggi"
+        },
+        {
+          "tag": "h2",
+          "text": "Come funziona?"
+        },
+        {
+          "tag": "h2",
+          "text": "Un esempio"
+        },
+        {
+          "tag": "h2",
+          "text": "Dove trovo il mio credito?"
+        },
+        {
+          "tag": "h2",
+          "text": "Importante"
+        },
+        {
+          "tag": "h2",
+          "text": "Domande frequenti"
+        },
+        {
+          "tag": "h2",
+          "text": "Inizia ad accumulare il tuo Credito CoffeeShare"
+        },
+        {
+          "tag": "h2",
+          "text": "Faq"
+        }
+      ],
+      "counts": {
+        "links": 53,
+        "images": 11,
+        "canvas": 0,
+        "forms": 0,
+        "buttons": 21
+      },
+      "linkCount": 53,
+      "screenshot": "screenshots\\coffeeshare.eu-programma-fedelta-coffeeshare-9b940237.png",
+      "consoleErrors": []
+    },
+    {
+      "url": "https://coffeeshare.eu/torrefazione-artigianale-coffeeshare",
+      "from": "https://coffeeshare.eu",
+      "depth": 1,
+      "status": 200,
+      "title": "Torrefazione artigianale a Vignola",
+      "lang": "it-IT",
+      "metaDescription": "Coffeeshare è una torrefazione artigianale a Vignola a conduzione familiare, in provincia di Modena,",
+      "h1": [],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Hanno parlato di noi.."
+        },
+        {
+          "tag": "h2",
+          "text": "Torrefazione Artigianale a Vignola (Modena) – Coffeeshare"
+        },
+        {
+          "tag": "h2",
+          "text": "La Storia della Torrefazione Coffeeshare"
+        },
+        {
+          "tag": "h3",
+          "text": "Mattia – Tostatore e Responsabile della Torrefazione"
+        },
+        {
+          "tag": "h3",
+          "text": "Jessica – Comunicazione e Cultura del Caffè"
+        },
+        {
+          "tag": "h2",
+          "text": "La Nostra Torrefazione a Vignola"
+        },
+        {
+          "tag": "h2",
+          "text": "Vendita Caffè Artigianale e Prodotti Selezionati"
+        },
+        {
+          "tag": "h2",
+          "text": "Coffeeshare Academy – Corsi sul Caffè"
+        },
+        {
+          "tag": "h2",
+          "text": "Faq"
+        }
+      ],
+      "counts": {
+        "links": 46,
+        "images": 12,
+        "canvas": 0,
+        "forms": 0,
+        "buttons": 9
+      },
+      "linkCount": 46,
+      "screenshot": "screenshots\\coffeeshare.eu-torrefazione-artigianale-coffeeshare-ba0c9e98.png",
+      "consoleErrors": []
+    },
+    {
+      "url": "https://coffeeshare.eu/business",
+      "from": "https://coffeeshare.eu",
+      "depth": 1,
+      "status": 200,
+      "title": "Torrefazione Coffeeshare | Caffè per aziende",
+      "lang": "it-IT",
+      "metaDescription": "Offriamo soluzioni professionali di caffè per aziende, con miscele di alta qualità selezionate e tostate artigianalmente",
+      "h1": [],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Linea Professionale"
+        },
+        {
+          "tag": "h2",
+          "text": "ATTREZZATURE PROFESSIONALI"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè personalizzato con il tuo marchio (Private Label)"
+        },
+        {
+          "tag": "h2",
+          "text": "Faq"
+        }
+      ],
+      "counts": {
+        "links": 40,
+        "images": 10,
+        "canvas": 0,
+        "forms": 1,
+        "buttons": 10
+      },
+      "linkCount": 40,
+      "screenshot": "screenshots\\coffeeshare.eu-business-3a94d956.png",
+      "consoleErrors": []
+    },
+    {
+      "url": "https://coffeeshare.eu/negozio",
+      "from": "https://coffeeshare.eu",
+      "depth": 1,
+      "status": 200,
+      "title": "Shop -",
+      "lang": "it-IT",
+      "metaDescription": "Prodotti Archive -",
+      "h1": [
+        "Shop"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Shop"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Amabile"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Arabica"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Arabica"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Barozzi"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Brasile"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Colombia Women’s Coffee Project Huila"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Congo"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Cremoso di Napoli"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Espresso Bar"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Etiopia"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Gran Riserva"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Gran Riserva"
+        },
+        {
+          "tag": "h2",
+          "text": "Filtri"
+        },
+        {
+          "tag": "h3",
+          "text": "Prezzo"
+        },
+        {
+          "tag": "h3",
+          "text": "Valutazione"
+        },
+        {
+          "tag": "h3",
+          "text": "Specie"
+        },
+        {
+          "tag": "h3",
+          "text": "Categoria"
+        },
+        {
+          "tag": "h3",
+          "text": "Stato"
+        },
+        {
+          "tag": "h2",
+          "text": "Faq"
+        }
+      ],
+      "counts": {
+        "links": 106,
+        "images": 16,
+        "canvas": 0,
+        "forms": 2,
+        "buttons": 25
+      },
+      "linkCount": 106,
+      "screenshot": "screenshots\\coffeeshare.eu-negozio-461c1088.png",
+      "consoleErrors": []
+    },
+    {
+      "url": "https://coffeeshare.eu/categoria-prodotto/caffe",
+      "from": "https://coffeeshare.eu",
+      "depth": 1,
+      "status": 200,
+      "title": "Caffè -",
+      "lang": "it-IT",
+      "metaDescription": "",
+      "h1": [
+        "Caffè"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Caffè"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Arabica"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Barozzi"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Brasile"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Colombia Women’s Coffee Project Huila"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Congo"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Cremoso di Napoli"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Etiopia"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Gran Riserva"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Guatemala"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè India Kappy Royal"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Moro"
+        },
+        {
+          "tag": "h2",
+          "text": "Caffè Muratori"
+        },
+        {
+          "tag": "h2",
+          "text": "Filtri"
+        },
+        {
+          "tag": "h3",
+          "text": "Prezzo"
+        },
+        {
+          "tag": "h3",
+          "text": "Valutazione"
+        },
+        {
+          "tag": "h3",
+          "text": "Specie"
+        },
+        {
+          "tag": "h3",
+          "text": "Categoria"
+        },
+        {
+          "tag": "h3",
+          "text": "Stato"
+        },
+        {
+          "tag": "h2",
+          "text": "Faq"
+        }
+      ],
+      "counts": {
+        "links": 99,
+        "images": 15,
+        "canvas": 0,
+        "forms": 2,
+        "buttons": 23
+      },
+      "linkCount": 99,
+      "screenshot": "screenshots\\coffeeshare.eu-categoria-prodotto-caffe-e0602387.png",
+      "consoleErrors": []
+    }
+  ],
+  "skipped": []
+}
